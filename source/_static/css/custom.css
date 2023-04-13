@@ -1,10 +1,5 @@
-body {
-	background-color: bisque;
-}
-
-div,
-p,
-section {
-	color: bisque;
+p {
 	font-size: large;
+	max-width: 40rem;
+	text-align: justify;
 }
