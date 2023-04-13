@@ -1,0 +1,10 @@
+body {
+	background-color: bisque;
+}
+
+div,
+p,
+section {
+	color: bisque;
+	font-size: large;
+}
