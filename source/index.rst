@@ -25,3 +25,5 @@
 
    sest_spolecniku/001/01.md
    sest_spolecniku/001/02.md
+   sest_spolecniku/001/03.md
+   sest_spolecniku/001/04.md
