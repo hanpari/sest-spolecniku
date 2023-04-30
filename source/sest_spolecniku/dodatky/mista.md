@@ -1,1 +1,1 @@
-# Místa
+# Seznam míst
