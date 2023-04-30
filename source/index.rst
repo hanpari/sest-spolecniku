@@ -6,6 +6,12 @@
 Šest společníků
 ===============
 
+
+Moderní online román na pokračování 
+
+Vítejte do společnosti ovládané korporacemi, kde občané různých kategorií bojují o své místo pod sluncem. **Hra** nabízí alternativu. Jako Šest společníků do ní vchází chladnokrevný **Záviš**, laskavý **Medard**, ctižádostivá **Lýdia**, oddaná **Světlana**, odvážný **Juraj** a temná **Gabriela**, aby odhalili tajemství **Herního světa**. 
+
+
 .. .. toctree::
 ..    :maxdepth: 2
 ..    :caption: Contents:
@@ -21,9 +27,21 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Nespavost
+   :caption: Vstup na scénu
 
-   sest_spolecniku/001/01.md
-   sest_spolecniku/001/02.md
-   sest_spolecniku/001/03.md
-   sest_spolecniku/001/04.md
+   sest_spolecniku/001-vstup-na-scenu/02.md
+   sest_spolecniku/001-vstup-na-scenu/01.md
+   sest_spolecniku/001-vstup-na-scenu/03.md
+   sest_spolecniku/001-vstup-na-scenu/04.md
+   sest_spolecniku/001-vstup-na-scenu/05.md
+   sest_spolecniku/001-vstup-na-scenu/06.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Dodatky
+
+   sest_spolecniku/dodatky/postavy.md
+   sest_spolecniku/dodatky/vysvetlivky.md
+   sest_spolecniku/dodatky/organizace.md
+   sest_spolecniku/dodatky/mista.md
+   sest_spolecniku/dodatky/nastroje.md

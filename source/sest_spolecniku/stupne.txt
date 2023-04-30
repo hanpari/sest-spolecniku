@@ -16,3 +16,5 @@ rytíř – – x
 zeman – – x
 vladyka – – x
 panoš – – x
+
+SestSpolecnikuFtpx@
