@@ -28,6 +28,9 @@ Vítejte do společnosti ovládané korporacemi, kde občané různých kategori
    sest_spolecniku/001-vstup-na-scenu/04.md
    sest_spolecniku/001-vstup-na-scenu/05.md
    sest_spolecniku/001-vstup-na-scenu/06.md
+   sest_spolecniku/001-vstup-na-scenu/07.md
+   sest_spolecniku/001-vstup-na-scenu/08.md
+   sest_spolecniku/pokracovani.md
 
 Další informace
 ===============
@@ -35,9 +38,7 @@ Další informace
 .. toctree::
    :maxdepth: 1
    :caption: Dodatky
-
-
-   sest_spolecniku/dodatky/pokracovani.md
+   
    sest_spolecniku/dodatky/postavy.md
    sest_spolecniku/dodatky/organizace.md
    sest_spolecniku/dodatky/mista.md
