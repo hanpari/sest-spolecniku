@@ -9,3 +9,5 @@
 Společný projekt soukromých a veřejných subjektů pro představení, zkoumání a vývoj Hry.
 
 ## Šest společníků
+
+## Ústav pro výzkum pokročilých technologiíí ve stavebnictví
