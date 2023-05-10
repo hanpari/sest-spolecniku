@@ -10,4 +10,4 @@ Společný projekt soukromých a veřejných subjektů pro představení, zkoum�
 
 ## Šest společníků
 
-## Ústav pro výzkum pokročilých technologiíí ve stavebnictví
+## Ústav pro pokročilé stavební technologie
