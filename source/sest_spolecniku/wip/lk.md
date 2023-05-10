@@ -65,7 +65,7 @@ Lýdie na ni nevěřícně zírala. *Obtěžovat bratra? Je to její nadřízen�
 
 I když ta představa byla lichotivá a Lýdie ji odmítla jako směšnou, rozhodla se předstírat, že jí věří.
 
-"Chápu," prohodila. "Alfréd může být, pokud jde o otcovi zájmy, poněkud nespolehlivý."
+"Chápu," prohodila. "Alfréd může být, pokud jde o otcovy zájmy, poněkud nespolehlivý."
 
 Když Xantipa pochopila, co Lýdie naznačuje, vyděsila se. "To rozhodně ne! Nikdy bych si nedovolila ho obcházet."
 
@@ -96,7 +96,7 @@ I když ji Xantipa považovala za chladnokrevnou manipulátorku, Lýdie se neum�
 "Stalo se to v obchodě s elektronikou," vysvětlila Xantipa nervózní z vědomí vlastní postradatelnosti. "Ani já nevěděla, že tam skončím. Mladá pan Afréd mne poslal, abych mu zajistila přístup do Hry."
 
 "Do hry?" přerušila ji Lýdie. "Můj vytížený bratr má čas na hry?"
- 
+
 "Do Hry s velkým H," odvětila Xantipa povýšeně. "Copak jste zapomněla, že vám otec doporučoval, abyste se také registrovala. Ale to není důležité!"
 
 Ve chvíli, kdy zaznělo, že Hra není důležitá, Lýdie věděla, že Hra důležitá je. Samozřejmě si vybavovala, že se o Hře otec zmínil, ale Lýdie ji ignorovala jako soutěživý prvek, další závod, vytvořený pro zvýšení napětí mezi zaměstnanci korporací.
@@ -145,7 +145,7 @@ Po druhé narážce na své odstranění se Xantipa začala potit.
 
 "Neposlala já? Aby zlikvidoval bratrovu pobočku?"
 
-*Dnes mne poprvé přímo obvinila. Musí být s nervy na štíru.* Po pravdě, Xantipa se ocitla v nepříjemné situaci. Neodvažovala se informovat Alfréda ani Lýdiina otce. Na jedné straně vah byla její ohrožená její budoucnost, na druhé straně mohlo jít o začínající útok na **Asfaltovou-Cestovní**. 
+*Dnes mne poprvé přímo obvinila. Musí být s nervy na štíru.* Po pravdě, Xantipa se ocitla v nepříjemné situaci. Neodvažovala se informovat Alfréda ani Lýdiina otce. Na jedné straně vah byla její ohrožená její budoucnost, na druhé straně mohlo jít o začínající útok na **Asfaltovou-Cestovní**.
 
 Lýdie zavrtěla hlavou: "Je mi líto, ale nemám s Velehradským nic společného.  Ale jak sama chápeš, jde o vážnou záležitost. Budu ji muset probrat s otcem."
 
