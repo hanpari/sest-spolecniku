@@ -11,6 +11,12 @@ Moderní online román na pokračování
 
 Vítejte do společnosti ovládané korporacemi, kde občané různých kategorií bojují o své místo pod sluncem. **Hra** nabízí alternativu. Šest společníků do ní vchází, aby odhalili tajemství **Herního světa**.
 
+Upozornění
+================
+
+V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozorněte na ně prosím autora. 
+
+
 Číst začněte zde
 ================
 
