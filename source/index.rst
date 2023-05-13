@@ -36,6 +36,7 @@ V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozor
    sest_spolecniku/001-vstup-na-scenu/06.md
    sest_spolecniku/001-vstup-na-scenu/07.md
    sest_spolecniku/001-vstup-na-scenu/08.md
+   sest_spolecniku/001-vstup-na-scenu/09.md
    sest_spolecniku/pokracovani.md
 
 Další informace

@@ -1,5 +1,7 @@
 
-Když před budovu Ústav pro pokročilé stavební technologie přijel černý korporátní elektromobil s logem Asfaltové-Cestovní, Lýdie Krajcarová měla za to, že si ji předvolal otec. Sotva se dozvěděla, že s ní potřebuje mluvit Xantipa Millerové, měla sto chutí vystoupit a vrátit se pěšky.
+# Zrada
+
+Když před budovu Ústav pro pokročilé stavební technologie přijel černý korporátní elektromobil s logem **Asfaltové-Cestovní**, Lýdie Krajcarová měla za to, že si ji předvolal otec. Sotva se dozvěděla, že s ní potřebuje mluvit Xantipa Millerové, měla sto chutí vystoupit a vrátit se pěšky.
 
 Ze všech zaměstnanců, které korporace měla, nikdo z nich se neúčastnil soupeření mezi případnými nástupci s takovým gustem a elánem jako Xantipa.
 
@@ -15,7 +17,7 @@ Přitom sledovala Xantipu, jak nepřítomně hledí do stěny, pravděpodobně z
 
 U kohokoliv jiného by šlo o pózu, ale Lýdie věděla, že Xantipa je skutečně zaměstnaná. U ní se sbíhala všechna informační vlákna bratrovy pobočky, ona ji *de facto* řídila, posedlá tím, čemu docenti na ekonomické fakultě pohrdavě přezdívali *mikromanagement*.
 
-*Něco se muselo stát,* napadlo Lýdii. Nemohla si nevšimnout mizících modřin na Xantipiných paží a otevřeného obalu od regenerační injekce pohozeného v koši. Nad hnědým masívním stolem zůstaly promítnuté otevřené virtuální dokumenty, asi desítka článků týkajících se nedávným trablů První-Spořitelní, a bloček s poznámkami, do kterého si musela Xantipa dělat poznámky.
+*Něco se muselo stát,* napadlo Lýdii. Nemohla si nevšimnout mizících modřin na Xantipiných paží a otevřeného obalu od regenerační injekce pohozeného v koši. Nad hnědým masívním stolem zůstaly promítnuté otevřené virtuální dokumenty, asi desítka článků týkajících se nedávným trablů **První-Spořitelní**, a bloček s poznámkami, do kterého si musela Xantipa dělat poznámky.
 
 Podle všeho šlo o nečekanou krizi, jinak by Xantipa nepůsobila tak ustaraným dojmem.
 
