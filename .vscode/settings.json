@@ -1,3 +1,19 @@
 {
-	"python.formatting.provider": "black"
+	"python.formatting.provider": "black",
+	"cSpell.enableFiletypes": [
+		"markdown"
+	],
+	"cSpell.language": "cs",
+	"cSpell.words": [
+		"duelového",
+		"Juraj",
+		"Juraje",
+		"Nonstop",
+		"plasťák",
+		"plasťáky",
+		"stříbronosů",
+		"Troják",
+		"VIUR",
+		"vzdychl"
+	]
 }
