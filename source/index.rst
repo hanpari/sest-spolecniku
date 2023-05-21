@@ -37,6 +37,14 @@ V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozor
    sest_spolecniku/001-vstup-na-scenu/07.md
    sest_spolecniku/001-vstup-na-scenu/08.md
    sest_spolecniku/001-vstup-na-scenu/09.md
+   sest_spolecniku/001-vstup-na-scenu/10.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 2: Jako žádná jiná
+
+   sest_spolecniku/002-jako-zadna-jina/01.md
+   sest_spolecniku/002-jako-zadna-jina/02.md
    sest_spolecniku/pokracovani.md
 
 Další informace
@@ -56,6 +64,7 @@ Další informace
 Vyhledávání
 ===========
 
-.. * :ref:`genindex`
-.. * :ref:`modindex`
+* :ref:`genindex`
+* :ref:`modindex`
 * :ref:`search`
+
