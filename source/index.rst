@@ -7,9 +7,9 @@
 ===============
 
 
-Moderní online román na pokračování 
+Online román na pokračování
 
-Vítejte do společnosti ovládané korporacemi, kde občané různých kategorií bojují o své místo pod sluncem. **Hra** nabízí alternativu. Šest společníků do ní vchází, aby odhalili tajemství **Herního světa**.
+Vítejte do společnosti ovládané korporacemi, kde občané různých kategorií bojují o své místo pod sluncem. **Hra** nabízí alternativu. Šest společníků do ní vchází, aby odhalili tajemství **Světa**.
 
 Upozornění
 ================
@@ -45,6 +45,8 @@ V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozor
 
    sest_spolecniku/002-jako-zadna-jina/01.md
    sest_spolecniku/002-jako-zadna-jina/02.md
+   sest_spolecniku/002-jako-zadna-jina/03.md
+   sest_spolecniku/002-jako-zadna-jina/04.md
    sest_spolecniku/pokracovani.md
 
 Další informace
@@ -54,11 +56,11 @@ Další informace
    :maxdepth: 1
    :caption: Dodatky
    
+   sest_spolecniku/dodatky/informace.md
    sest_spolecniku/dodatky/postavy.md
    sest_spolecniku/dodatky/organizace.md
    sest_spolecniku/dodatky/mista.md
    sest_spolecniku/dodatky/vysvetlivky.md
-   sest_spolecniku/dodatky/informace.md
 
 
 Vyhledávání

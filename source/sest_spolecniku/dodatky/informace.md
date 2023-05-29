@@ -18,8 +18,7 @@ Sdílejte román na sociálním sítích.
 
 ## Máte připomínky?
 
-Své návrhy můžete zapracovat v gitovém repozitáři nebo poslat do sekce [issues]
-(<https://github.com/hanpari/sest-spolecniku/issues>).
+Své návrhy můžete zapracovat v gitovém repozitáři nebo poslat do sekce [issues](https://github.com/hanpari/sest-spolecniku/issues).
 
 [Šest společníků - Github](https://github.com/hanpari/sest-spolecniku)
 
