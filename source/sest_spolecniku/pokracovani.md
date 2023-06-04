@@ -6,4 +6,4 @@ Děkuji, že jste dočetli až sem. Šest společníků vychází jako interneto
 
 ## Kdy čekat další kapitolu?
 
-Kapitoly se objevují ještě čerstvé, přímo z autorské dílny, většinou po dvou dnech. Pokud se vám román zamlouvá a jste zvědaví na jeho další vývoj, přijďte zase za týden.
+Kapitoly se objevují ještě čerstvé, přímo z autorské dílny, většinou v neděli. Pokud se vám román zamlouvá a jste zvědaví na další, přijďte zase za týden.

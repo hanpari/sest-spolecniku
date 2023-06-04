@@ -7,9 +7,9 @@
 ===============
 
 
-Online román na pokračování
+*Dobrodružný román na pokračování s prvky fantasy a sci-fi*
 
-Vítejte do společnosti ovládané korporacemi, kde občané různých kategorií bojují o své místo pod sluncem. **Hra** nabízí alternativu. Šest společníků do ní vchází, aby odhalili tajemství **Světa**.
+Vítejte do společnosti ovládané korporacemi, kde občané různých kategorií bojují o své místo pod sluncem. **Hra** nabízí alternativu. Šest společníků do ní vchází, aby odhalili tajemství herního **Světa**.
 
 Upozornění
 ================
@@ -47,6 +47,7 @@ V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozor
    sest_spolecniku/002-jako-zadna-jina/02.md
    sest_spolecniku/002-jako-zadna-jina/03.md
    sest_spolecniku/002-jako-zadna-jina/04.md
+   sest_spolecniku/002-jako-zadna-jina/05.md
    sest_spolecniku/pokracovani.md
 
 Další informace
