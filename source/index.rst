@@ -48,6 +48,8 @@ V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozor
    sest_spolecniku/002-jako-zadna-jina/03.md
    sest_spolecniku/002-jako-zadna-jina/04.md
    sest_spolecniku/002-jako-zadna-jina/05.md
+   sest_spolecniku/002-jako-zadna-jina/06.md
+   sest_spolecniku/002-jako-zadna-jina/07.md
    sest_spolecniku/pokracovani.md
 
 Další informace
