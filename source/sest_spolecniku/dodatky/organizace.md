@@ -6,7 +6,7 @@
 
 ## První-Spořitelní
 
-## Herní centrum
+## Herní Centrum
 
 Společný projekt soukromých a veřejných subjektů pro představení, zkoumání a vývoj Hry.
 
