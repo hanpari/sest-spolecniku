@@ -1,0 +1,10 @@
+Generate a picture of six people:
+
+Juraj - man, 20 yo, blond hair, 175 cm tall, muscular, with a sword in right hand, military uniform.
+Světlana - woman, 20 yo, 175 cm, blond hair, white robe, golden amulet, pigeon in her hand
+Záviš - man, 35 yo, 190cm tall, with scars on his legs, in camouflage overall.
+Lýdie - woman, green eyes, red hair, 30 yo, black suit, ninja-like
+Medard - man, 40 yo, black beard, slightly fat, friendly, in rich noble robe
+Gabriela - woman, 19 yo, curly black hair
+
+Background: fantasy city with high towers.
