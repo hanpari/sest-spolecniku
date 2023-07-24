@@ -59,6 +59,7 @@ V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozor
    :caption: Kapitola 3: Velké dobrodružství
    
    sest_spolecniku/003-velke-dobrodruzstvi/01.md
+   sest_spolecniku/003-velke-dobrodruzstvi/02.md
    sest_spolecniku/pokracovani.md
 
 Další informace
