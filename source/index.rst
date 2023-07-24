@@ -53,6 +53,12 @@ V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozor
    sest_spolecniku/002-jako-zadna-jina/08.md
    sest_spolecniku/002-jako-zadna-jina/09.md
    sest_spolecniku/002-jako-zadna-jina/10.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 3: Velké dobrodružství
+   
+   sest_spolecniku/003-velke-dobrodruzstvi/01.md
    sest_spolecniku/pokracovani.md
 
 Další informace
