@@ -11,6 +11,11 @@
 
 Vítejte do společnosti ovládané korporacemi, kde občané různých kategorií bojují o své místo pod sluncem. **Hra** nabízí alternativu. Šest společníků do ní vchází, aby odhalili tajemství herního **Světa**.
 
+
+
+*Společnost, ve které Záviš žil, byla decentní snahou o přežití nejschopnějších. Lidé neumírali na ulicích, VIUR nechávala dost času na uklizení začínajících případů. Pacienti dodýchavali v nemocnicích, na specializovaných oddělení, kde neděsili ostatní neočkované plasťáky. Násilí, kromě ritualizovaných soubojů, se tolerovalo v určitých mezích.*
+
+
 Upozornění
 ================
 
@@ -60,6 +65,7 @@ V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozor
    
    sest_spolecniku/003-velke-dobrodruzstvi/01.md
    sest_spolecniku/003-velke-dobrodruzstvi/02.md
+   sest_spolecniku/003-velke-dobrodruzstvi/03.md
    sest_spolecniku/pokracovani.md
 
 Další informace
