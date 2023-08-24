@@ -16,10 +16,10 @@ Vítejte do společnosti ovládané korporacemi, kde občané různých kategori
 *Společnost, ve které Záviš žil, byla decentní snahou o přežití nejschopnějších. Lidé neumírali na ulicích, VIUR nechávala dost času na uklizení začínajících případů. Pacienti dodýchavali v nemocnicích, na specializovaných oddělení, kde neděsili ostatní neočkované plasťáky. Násilí, kromě ritualizovaných soubojů, se tolerovalo v určitých mezích.*
 
 
-Upozornění
-================
+Omluva
+======
 
-V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozorněte na ně prosím autora. 
+V textu jsou hrubky a překlepy. Pokud na některé narazíte, upozorněte na ně prosím autora. 
 
 
 Číst začněte zde
@@ -67,6 +67,8 @@ V textu se mohou objevit chyby a překlepy. Pokud na některé narazíte, upozor
    sest_spolecniku/003-velke-dobrodruzstvi/02.md
    sest_spolecniku/003-velke-dobrodruzstvi/03.md
    sest_spolecniku/003-velke-dobrodruzstvi/04.md
+   sest_spolecniku/003-velke-dobrodruzstvi/05.md
+   sest_spolecniku/003-velke-dobrodruzstvi/06.md
    sest_spolecniku/pokracovani.md
 
 Další informace
