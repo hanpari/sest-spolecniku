@@ -1,5 +1,5 @@
 {
-	"python.formatting.provider": "black",
+	"python.formatting.provider": "none",
 	"cSpell.enableFiletypes": [
 		"markdown"
 	],
@@ -15,5 +15,8 @@
 		"Troják",
 		"VIUR",
 		"vzdychl"
-	]
+	],
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.black-formatter"
+	}
 }
