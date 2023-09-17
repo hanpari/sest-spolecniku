@@ -10,17 +10,23 @@ Sdílejte román na sociálním sítích.
 
 ## Kontakt na autora
 
-[Pavel Morava Twitter](https://twitter.com/hanpari)
+[Facebook](https://www.facebook.com/hanpari.2023)
 
-[Pavel Morava Github](https://github.com/hanpari)
+### Twitter aka X
 
-**Pavel Morava** je [pseudonym](https://cs.wikipedia.org/wiki/Pseudonym), nikoliv pravé jméno autora.
+[Twitter aka X](https://twitter.com/hanpari)
+
+[Github](https://github.com/hanpari)
+
+**hanpari** je [pseudonym](https://cs.wikipedia.org/wiki/Pseudonym), nikoliv pravé jméno autora.
 
 ## Máte připomínky?
 
 Své návrhy můžete zapracovat v gitovém repozitáři nebo poslat do sekce [issues](https://github.com/hanpari/sest-spolecniku/issues).
 
 [Šest společníků - Github](https://github.com/hanpari/sest-spolecniku)
+
+Popřípadě použijte některou ze sociálních sítí.
 
 ## Sdílení Šesti společníků
 
