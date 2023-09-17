@@ -10,6 +10,8 @@ Sdílejte román na sociálním sítích.
 
 ## Kontakt na autora
 
+### Facebook
+
 [Facebook](https://www.facebook.com/hanpari.2023)
 
 ### Twitter aka X
@@ -27,6 +29,13 @@ Své návrhy můžete zapracovat v gitovém repozitáři nebo poslat do sekce [i
 [Šest společníků - Github](https://github.com/hanpari/sest-spolecniku)
 
 Popřípadě použijte některou ze sociálních sítí.
+
+<p class="fb-share-button"
+    data-href="https://www.sest-spolecniku.cz/"
+    data-layout="" data-size=""><a target="_blank"
+        href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.sest-spolecniku.cz%2F&amp;src=sdkpreparse"
+        class="fb-xfbml-parse-ignore">Sdílet Šest společníků
+        na Facebooku</a></p>
 
 ## Sdílení Šesti společníků
 
