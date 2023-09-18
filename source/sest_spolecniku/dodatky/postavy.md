@@ -2,9 +2,19 @@
 
 ## Černodušný, Cyril
 
-Lékař
+Lékař **Herního Centra**
 
-## Krajcar, Alfréd
+## Koucký, Jeremiáš
+
+Právník **Asfaltové-Cestovní**
+
+## Krajcar, Alfréd (starší)
+
+Zakladatel a hlavní podílník **Asfaltové-Cestovní**
+
+## Krajcar, Alfréd (mladší)
+
+Ředitel jedné z poboček **Asfaltové-Cestovní**
 
 ## Krajcarová, Lýdie
 

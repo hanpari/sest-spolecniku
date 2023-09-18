@@ -19,7 +19,7 @@ Vítejte do společnosti ovládané korporacemi, kde občané různých kategori
 Omluva
 ======
 
-V textu jsou hrubky a překlepy. Pokud na některé narazíte, upozorněte na ně prosím autora. 
+V textu se mohou objevit hrubky a překlepy. Pokud na některé narazíte, upozorněte na ně prosím autora. 
 
 
 Číst začněte zde
@@ -69,6 +69,8 @@ V textu jsou hrubky a překlepy. Pokud na některé narazíte, upozorněte na n�
    sest_spolecniku/003-velke-dobrodruzstvi/04.md
    sest_spolecniku/003-velke-dobrodruzstvi/05.md
    sest_spolecniku/003-velke-dobrodruzstvi/06.md
+   sest_spolecniku/003-velke-dobrodruzstvi/07.md
+   sest_spolecniku/003-velke-dobrodruzstvi/08.md
    sest_spolecniku/pokracovani.md
 
 Další informace

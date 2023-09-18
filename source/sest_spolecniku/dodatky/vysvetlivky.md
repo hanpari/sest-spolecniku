@@ -28,7 +28,7 @@ Neformálně též Bronzový občan nebo Bronzák. Po skončení školní dochá
 
 ### Druhá kategorie
 
-Neformálně též Stříbrný občan nebo Stříbrnos. Po skončení školní docházky jakkýkoliv občan, u kterého společenský systém dlouhodobě přesahuje střední měřitelný přínos. Má nárok na nadstandardní služby. Má právo vlastnit soukromý majetek do deseti miliónů korun.
+Neformálně též Stříbrný občan nebo stříbronos. Po skončení školní docházky jakkýkoliv občan, u kterého společenský systém dlouhodobě přesahuje střední měřitelný přínos. Má nárok na nadstandardní služby. Má právo vlastnit soukromý majetek do deseti miliónů korun.
 
 ### První kategorie
 
