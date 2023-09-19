@@ -1,16 +1,20 @@
-.. Šest společníků documentation master file, created by
-   sphinx-quickstart on Thu Apr 13 11:30:05 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Šest společníků
 ===============
 
+**Šest společníků** přináší fascinující příběh, který vás vtáhne do světa plného záhad a dobrodružství. Představte si hru, tak tajemnou a neodolatelnou, že šest odvážných postav riskuje vše, aby odhalilo její tajemství. 
+
+Tato kniha je dokonalou směsí sci-fi, fantasy a sociálního románu, která vás povede skrze nekonečné zákoutí lidské mysli a neznámých světů. 
+
+Každý z šesti společníků přináší do hry unikátní perspektivu a dovednosti, což vede k napínavým zvratům a nečekaným odhalením. 
+
+**Šest společníků** je online román na pokračování, který vás bude držet v napětí od první stránky až do poslední. Připravte se na cestu plnou vzrušení, objevování a překvapení. Bez citlivých scén je tato kniha skvělou volbou pro čtenáře všech věkových kategorií. 
+
+Přidejte se k našim hrdinům a zažijte dobrodružství svého života!
+
+Více na https://www.sest-spolecniku.cz/
+
 
 *Dobrodružný román na pokračování s prvky fantasy a sci-fi*
-
-Vítejte do společnosti ovládané korporacemi, kde občané různých kategorií bojují o své místo pod sluncem. **Hra** nabízí alternativu. Šest společníků do ní vchází, aby odhalili tajemství herního **Světa**.
-
 
 
 *Společnost, ve které Záviš žil, byla decentní snahou o přežití nejschopnějších. Lidé neumírali na ulicích, VIUR nechávala dost času na uklizení začínajících případů. Pacienti dodýchavali v nemocnicích, na specializovaných oddělení, kde neděsili ostatní neočkované plasťáky. Násilí, kromě ritualizovaných soubojů, se tolerovalo v určitých mezích.*
