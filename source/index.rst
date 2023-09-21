@@ -75,6 +75,7 @@ V textu se mohou objevit hrubky a překlepy. Pokud na některé narazíte, upozo
    sest_spolecniku/003-velke-dobrodruzstvi/06.md
    sest_spolecniku/003-velke-dobrodruzstvi/07.md
    sest_spolecniku/003-velke-dobrodruzstvi/08.md
+   sest_spolecniku/003-velke-dobrodruzstvi/09.md
    sest_spolecniku/pokracovani.md
 
 Další informace
