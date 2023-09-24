@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Šest společníků"
-copyright = "2023, Pavel Morava"
-author = "Pavel Morava"
+copyright = "2023, hanpari"
+author = "hanpari"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
