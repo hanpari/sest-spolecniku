@@ -29,10 +29,6 @@ V textu se mohou objevit hrubky a překlepy. Pokud na některé narazíte, upozo
 Číst začněte zde
 ================
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Contents:
-
 .. toctree::
    :maxdepth: 2
    :caption: Kapitola 1: Vstup na scénu
