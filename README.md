@@ -29,6 +29,6 @@ pip install -r requirements.txt
 sh create_www.sh  
 ```
 
-Výsledné stránky se nachází v adresáři [www](www/).
+Výsledné stránky se generují do adresáře [www](www/), který není součásti repozitáře.
 
 
