@@ -4,6 +4,12 @@
 
 Formální soubojový systém navržený pro podporu soutěživosti mezi občany.
 
+## Kultura
+
+### Kočky v růžích
+
+Někdy též známé jako *Příliš roztomilé, aby to byla pravda*. Populární seriál na hlavní vysílací platformě Časožrout. V hlavních rolích Evžen Troják, Kamila Kousavá a další.
+
 ## Nápoj
 
 ### Supertonický
@@ -20,24 +26,24 @@ Někdy též občan Občan-Kandidát. Od patnácti let věku po dobu trvání š
 
 ### Čtvrtá kategorie
 
-Neformálně též Plastový občan nebo Plasťák. Po skončení školní docházky jakkýkoliv občan, u kterého společenský systém nazaznamená měřitelný přínos. Má nárok na zajištění životních potřeb a bytovou jednotku. Ztrácí nárok na vakcinace.
+Neformálně též *plastový* občan nebo *plasťák*. Po skončení školní docházky jakýkoliv občan, u kterého společenský systém nezaznamená měřitelný přínos. Má nárok na zajištění životních potřeb a bytovou jednotku. Ztrácí nárok na vakcinace.
 
 ### Třetí kategorie
 
-Neformálně též Bronzový občan nebo Bronzák. Po skončení školní docházky jakkýkoliv občan, u kterého společenský systém zaznamená minimální měřitelný přínos. Má nárok na pravidelnou vakcinaci. Má právo vlastnit majetek do dvou miliónů korun.
+Neformálně též *bronzový* občan nebo *bronzák*. Po skončení školní docházky jakýkoliv občan, u kterého společenský systém zaznamená minimální měřitelný přínos. Má nárok na pravidelnou vakcinaci. Má právo vlastnit majetek do dvou miliónů korun.
 
 ### Druhá kategorie
 
-Neformálně též Stříbrný občan nebo stříbronos. Po skončení školní docházky jakkýkoliv občan, u kterého společenský systém dlouhodobě přesahuje střední měřitelný přínos. Má nárok na nadstandardní služby. Má právo vlastnit soukromý majetek do deseti miliónů korun.
+Neformálně též *stříbrný* občan nebo *stříbronos*. Po skončení školní docházky jakýkoliv občan, u kterého společenský systém dlouhodobě přesahuje střední měřitelný přínos. Má nárok na nadstandardní služby  poskytované společností. Má právo vlastnit soukromý majetek do deseti miliónů korun. Má povinnost platit paušální měsíční daň.
 
 ### První kategorie
 
-Neformálně též Zlatý občan nebo Zlatonos. Po skončení školní docházky jakkýkoliv občan, u kterého společenský systém dlouhodobě přesahuje vysoký měřitelný přínos. Má právo vlastnit soukromý majetek nad deset miliónů korun.
+Neformálně též *zlatý* občan nebo *zlatonos*. Po skončení školní docházky jakýkoliv občan, u kterého společenský systém dlouhodobě přesahuje vysoký měřitelný přínos. Má právo vlastnit soukromý majetek do dvě stě miliónů korun. Má právo na technologie prodlužující lidský život. Má povinnost platit paušální měsíční daň.
 
 ## Vakcinace
 
-Dočasná ochrana proti nákaze VIUR. Zahrnuje preventivní a jiné prostředky pro potlačení onemocněním VIUR u občanů nulté, první, druhé, třetí kategorie a nezletilých.
+Dočasná ochrana proti nákaze VIUR. Zahrnuje preventivní a jiné prostředky pro potlačení onemocněním VIUR u občanů nulté, první, druhé, třetí kategorie a nezletilých. Občané čtvrté kategorie nemají na získání vakcinace nárok. Podání vakcíny občanu čtvrté kategorie zákon považuje za zločin.
 
 ## VIUR
 
-Virová Infekce Udržitelného Rozvoje. Mutující virové kmeny způsobující postupné selhání organismu.
+Virová Infekce Udržitelného Rozvoje. Jde o pravidelně aktualizované virové kmeny způsobující postupné selhání organismu u většiny neočkovaných lidských jedinců. Neočkovaný jedinec zpravidla umírá do deseti let od posledního očkování. 
