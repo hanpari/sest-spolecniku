@@ -73,7 +73,15 @@ V textu se mohou objevit hrubky a překlepy. Pokud na některé narazíte, upozo
    sest_spolecniku/003-velke-dobrodruzstvi/08.md
    sest_spolecniku/003-velke-dobrodruzstvi/09.md
    sest_spolecniku/003-velke-dobrodruzstvi/10.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 4: Závod s časem
+
+   sest_spolecniku/004-zavod-s-casem/01.md
+   sest_spolecniku/004-zavod-s-casem/02.md
    sest_spolecniku/pokracovani.md
+
 
 Další informace
 ===============
