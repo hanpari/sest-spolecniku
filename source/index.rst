@@ -1,29 +1,24 @@
 Šest společníků
 ===============
 
+*Dobrodružný román na pokračování s prvky fantasy a sci-fi*
+
 **Šest společníků** přináší fascinující příběh, který vás vtáhne do světa plného záhad a dobrodružství. Představte si hru, tak tajemnou a neodolatelnou, že šest odvážných postav riskuje vše, aby odhalilo její tajemství. 
 
 Tato kniha je dokonalou směsí sci-fi, fantasy a sociálního románu, která vás povede skrze nekonečné zákoutí lidské mysli a neznámých světů. 
 
 Každý z šesti společníků přináší do hry unikátní perspektivu a dovednosti, což vede k napínavým zvratům a nečekaným odhalením. 
 
-**Šest společníků** je online román na pokračování, který vás bude držet v napětí od první stránky až do poslední. Připravte se na cestu plnou vzrušení, objevování a překvapení. Bez citlivých scén je tato kniha skvělou volbou pro čtenáře všech věkových kategorií. 
+Čtěte online román, který vás bude držet v napětí od první stránky až do poslední. Připravte se na cestu plnou vzrušení, objevování a překvapení. Je skvělou volbou pro čtenáře všech věkových kategorií.
 
 Přidejte se k našim hrdinům a zažijte dobrodružství svého života!
 
-Více na https://www.sest-spolecniku.cz/
 
+Omluva za nedostatky
+====================
 
-*Dobrodružný román na pokračování s prvky fantasy a sci-fi*
-
-
-*Společnost, ve které Záviš žil, byla decentní snahou o přežití nejschopnějších. Lidé neumírali na ulicích, VIUR nechávala dost času na uklizení začínajících případů. Pacienti dodýchavali v nemocnicích, na specializovaných oddělení, kde neděsili ostatní neočkované plasťáky. Násilí, kromě ritualizovaných soubojů, se tolerovalo v určitých mezích.*
-
-
-Omluva
-======
-
-V textu se mohou objevit hrubky a překlepy. Pokud na některé narazíte, upozorněte na ně prosím autora. 
+V textu se objevují nechtěné hrubky a překlepy. 
+Pokud na některé narazíte, upozorněte na ně prosím autora. 
 
 
 Číst začněte zde
@@ -101,6 +96,5 @@ Vyhledávání
 ===========
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

@@ -9,7 +9,8 @@
 [www.sest-spolecniku.cz](https://www.sest-spolecniku.cz/)
 
 ## Autor
-**hanpari** je [pseudonym](https://cs.wikipedia.org/wiki/Pseudonym), nikoliv pravé jméno autora.
+
+**hanpari**
 
 ## Jak podpořit Šest společníků?
 
@@ -27,9 +28,6 @@ Sdílejte román na sociálním sítích a doporučte ho svým přátelům.
 
 [Šest společníků](https://www.facebook.com/sest.spolecniku) - sledujte pro nové kapitoly a jiné novinky o románu
 
-[hanpari](https://www.facebook.com/hanpari.2023) - autorské aktivity
-
-
 ## Github
 
 [Github](https://github.com/hanpari) - pro návrhy jazykových a jiných korekcí
@@ -46,4 +44,4 @@ Své návrhy můžete zapracovat v gitovém repozitáři nebo poslat do sekce [i
 
 Pro nekomerční účely lze román Šest společníků šířit **kteroukoliv formou**, ať už digitální nebo fyzickou. To znamená, že můžete posílat Šest společníků **emailem**, sdílet ho na **sociálních sítích**, nebo **tisknout** či jinak **publikovat** pro své přátelé, známé nebo náhodné návštěvníky vašeho blogu.
 
-Nezapomínejte prosím na základní údaje o díle jako je **jméno autora**, **název románu** a **oficiální domovská stránka** [Šest společníků](https://www.sest-spolecniku.cz/).
+Nezapomínejte prosím na základní údaje o díle jako je **jméno autora**, **název románu** a **oficiální domovská stránka** [www.sest-spolecniku.cz](https://www.sest-spolecniku.cz/).
