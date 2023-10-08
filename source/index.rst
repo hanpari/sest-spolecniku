@@ -75,6 +75,7 @@ Pokud na některé narazíte, upozorněte na ně prosím autora.
 
    sest_spolecniku/004-zavod-s-casem/01.md
    sest_spolecniku/004-zavod-s-casem/02.md
+   sest_spolecniku/004-zavod-s-casem/03.md
    sest_spolecniku/pokracovani.md
 
 
