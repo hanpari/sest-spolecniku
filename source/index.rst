@@ -81,6 +81,8 @@ Pokud na některé narazíte, upozorněte na ně prosím autora.
    sest_spolecniku/004-zavod-s-casem/06.md
    sest_spolecniku/004-zavod-s-casem/07.md
    sest_spolecniku/004-zavod-s-casem/08.md
+   sest_spolecniku/004-zavod-s-casem/09.md
+   sest_spolecniku/004-zavod-s-casem/10.md
    sest_spolecniku/pokracovani.md
 
 
