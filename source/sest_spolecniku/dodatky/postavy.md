@@ -21,6 +21,10 @@ Zakladatel a hlavní podílník **Asfaltové-Cestovní**
 
 Ředitel jedné z poboček **Asfaltové-Cestovní**
 
+## Krajcarová, Darina
+
+Nevlastní sestra Lýdie a vlastní mladší sestra Alfréda 
+
 ## Krajcarová, Lýdie
 
 ## Lízal, Jakub
@@ -29,11 +33,17 @@ Místopředseda studentské rady
 
 ## Márová, Gabriela
 
+## Mechová, Laura
+
+## Mechový, Lukáš
+
 ## Mechový, Medard
 
 ## Oplatka, Ctibor
 
 Bookmaker
+
+## Troják, Evžen
 
 ## Troják, Juraj
 

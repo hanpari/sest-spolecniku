@@ -1,3 +1,6 @@
 # Fauna
 
-## Varran, mrákotlivý
+## Kulíšek, roztomilý
+## Medvěd, zakrslý
+## Psovec, lesní
+## Varan, mrákotlivý
