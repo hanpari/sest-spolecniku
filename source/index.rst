@@ -83,7 +83,13 @@ Pokud na některé narazíte, upozorněte na ně prosím autora.
    sest_spolecniku/004-zavod-s-casem/08.md
    sest_spolecniku/004-zavod-s-casem/09.md
    sest_spolecniku/004-zavod-s-casem/10.md
-   sest_spolecniku/pokracovani.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 4: Závod s časem
+
+   sest_spolecniku/005-schizofrenie/1.md
+
 
 
 Další informace
@@ -93,6 +99,7 @@ Další informace
    :maxdepth: 1
    :caption: Dodatky
    
+   sest_spolecniku/pokracovani.md
    sest_spolecniku/dodatky/informace.md
    sest_spolecniku/dodatky/postavy.md
    sest_spolecniku/dodatky/organizace.md
