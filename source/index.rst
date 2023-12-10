@@ -86,9 +86,12 @@ Pokud na některé narazíte, upozorněte na ně prosím autora.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Kapitola 4: Závod s časem
+   :caption: Kapitola 5: Schizofrenie
 
    sest_spolecniku/005-schizofrenie/1.md
+   sest_spolecniku/005-schizofrenie/2.md
+   sest_spolecniku/005-schizofrenie/3.md
+   sest_spolecniku/005-schizofrenie/4.md
 
 
 

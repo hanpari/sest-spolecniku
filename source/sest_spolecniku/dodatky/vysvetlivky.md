@@ -8,11 +8,14 @@ Formální soubojový systém navržený pro podporu soutěživosti mezi občany
 
 ### Kočky v růžích
 
-Někdy též známé jako *Příliš roztomilé, aby to byla pravda*. Populární seriál na hlavní vysílací platformě Časožrout. V hlavních rolích Evžen Troják, Kamila Kousavá a další.
+Někdy též známé jako *Příliš dobré, aby to byla pravda*. Populární seriál na hlavní vysílací platformě Časožrout. V hlavních rolích Evžen Troják, Kamila Kousavá a další.
 
-## Nápoj
+## Výhody
 
-### Supertonický
+### Bioaktivní krémy
+### Podkožní implantáty 
+### Supertonické nápoje
+
 
 ## Občanské stupně
 
@@ -22,7 +25,6 @@ Do patnácti let věku.
 
 ### Nultá kategorie
 
-Někdy též občan Občan-Kandidát. Od patnácti let věku po dobu trvání školní docházky. Má právo na podmíněné vzdělání a vakcinaci.
 
 ### Čtvrtá kategorie
 
