@@ -92,6 +92,8 @@ Pokud na některé narazíte, upozorněte na ně prosím autora.
    sest_spolecniku/005-schizofrenie/2.md
    sest_spolecniku/005-schizofrenie/3.md
    sest_spolecniku/005-schizofrenie/4.md
+   sest_spolecniku/005-schizofrenie/5.md
+   sest_spolecniku/005-schizofrenie/6.md
 
 
 
