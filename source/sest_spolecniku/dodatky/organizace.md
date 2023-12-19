@@ -14,5 +14,6 @@ Společný projekt soukromých a veřejných subjektů pro představení, zkoum�
 
 ## Šest společníků
 
-
 ## Institut pro pokročilé stavební technologie
+
+## Zahrada-Technická
