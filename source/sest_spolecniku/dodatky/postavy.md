@@ -7,7 +7,11 @@ Kurýr **Herního Centra**
 
 ## Černodušný, Cyril
 
+## Drbohlav, Alois
+finanční ředitel **Technika-Zahradní**
+
 ## Drbohlavová, Karolína
+lidské zdroje **Technika-Zahradní**
 
 Lékař **Herního Centra**
 

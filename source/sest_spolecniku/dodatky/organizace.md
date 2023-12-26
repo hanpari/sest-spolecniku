@@ -10,6 +10,9 @@
 
 Společný projekt soukromých a veřejných subjektů pro představení, zkoumání a vývoj Hry.
 
+## Měsíční kameny
+restaurace
+
 ## Svatoplukova univerzita
 
 ## Šest společníků
