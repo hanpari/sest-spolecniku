@@ -3,9 +3,7 @@
 
 *Dobrodružný román na pokračování s prvky fantasy a sci-fi*
 
-**Šest společníků** přináší fascinující příběh, který vás vtáhne do světa plného záhad a dobrodružství. Představte si hru, tak tajemnou a neodolatelnou, že šest odvážných postav riskuje vše, aby odhalilo její tajemství. 
-
-Tato kniha je dokonalou směsí sci-fi, fantasy a sociálního románu, která vás povede skrze nekonečné zákoutí lidské mysli a neznámých světů. 
+**Šest společníků** přináší fascinující příběh, který vás vtáhne do světa plného záhad a dobrodružství. Představte si hru tak tajemnou a neodolatelnou, že šest odvážných postav riskuje vše, aby odhalilo její tajemství. 
 
 Každý z šesti společníků přináší do hry unikátní perspektivu a dovednosti, což vede k napínavým zvratům a nečekaným odhalením. 
 

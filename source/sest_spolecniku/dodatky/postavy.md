@@ -49,6 +49,8 @@ Místopředseda studentské rady
 
 Bookmaker
 
+## Soušek, Martin
+
 ## Troják, Evžen
 
 ## Troják, Juraj
