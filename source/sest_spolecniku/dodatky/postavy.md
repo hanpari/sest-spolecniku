@@ -1,19 +1,20 @@
 # Seznam postav
 
-## 443, Leontýna
-
-Kurýr **Herního Centra**
-
-
 ## Černodušný, Cyril
 
 ## Drbohlav, Alois
+
 finanční ředitel **Technika-Zahradní**
 
 ## Drbohlavová, Karolína
+
 lidské zdroje **Technika-Zahradní**
 
 Lékař **Herního Centra**
+
+## Fafílková, Helena
+
+Administrátorka HC se specializací na nezletilé
 
 ## Koucký, Jeremiáš
 
@@ -29,9 +30,13 @@ Zakladatel a hlavní podílník **Asfaltové-Cestovní**
 
 ## Krajcarová, Darina
 
-Nevlastní sestra Lýdie a vlastní mladší sestra Alfréda 
+Nevlastní sestra Lýdie a vlastní mladší sestra Alfréda Krajcarových
 
 ## Krajcarová, Lýdie
+
+## Kuběnová, Alexandra
+
+občanka první kategorie
 
 ## Lízal, Jakub
 
@@ -50,6 +55,12 @@ Místopředseda studentské rady
 Bookmaker
 
 ## Soušek, Martin
+
+Hráč
+
+## Štveráková, Leontýna
+
+Kurýr **Herního Centra**, fluid
 
 ## Troják, Evžen
 
