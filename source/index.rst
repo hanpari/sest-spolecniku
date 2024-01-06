@@ -3,14 +3,54 @@
 
 *Dobrodružný román na pokračování s prvky fantasy a sci-fi*
 
-**Šest společníků** přináší fascinující příběh, který vás vtáhne do světa plného záhad a dobrodružství. Představte si hru tak tajemnou a neodolatelnou, že šest odvážných postav riskuje vše, aby odhalilo její tajemství. 
+Šest postav a šest osudů! 
 
-Každý z šesti společníků přináší do hry unikátní perspektivu a dovednosti, což vede k napínavým zvratům a nečekaným odhalením. 
+Chladnokrevný Záviš
+-------------------
 
-Čtěte online román, který vás bude držet v napětí od první stránky až do poslední. Připravte se na cestu plnou vzrušení, objevování a překvapení. Je skvělou volbou pro čtenáře všech věkových kategorií.
+"Společnost se ztrátami počítá. Máme proto kvalitní a zabezpečené sirotčince. V neděli tam dostaneš desert. Teď se prosím tvař vítězně. Ještě jsme nedohráli naše role."
 
-Přidejte se k našim hrdinům a zažijte dobrodružství svého života!
+Elegantní Lýdie
+---------------
 
+*Je posedlá jedy,* všimla si Gabriela, když si uvědomila, kam se jejich debata stáčí. *Musí jít o čerstvou posedlost...*
+
+Snaživý Medard
+--------------
+
+*Jsem směšně uvědomělý,* napadlo ho. *Záviš by se mi vysmál.*
+
+Světácká Světlana
+-----------------
+
+"Naše věčně nespokojená kverulantka," povzdychla si baronka a objala i Světlanu.
+
+Udatný Juraj
+------------
+
+...nesnášel, když se ho kdokoliv snažil usadit do patřičných mezích, ale měl dost rozumu, aby neurazil zlatou dámu - byť pochyboval, že slovo dáma tu ženu vystihuje. 
+
+Soustředěná Gabriela
+--------------------
+
+*Lepší než zůstat na podlaze,* pomyslela si a vzpomněla si na ubytovny, kterými prošla jako sirotek, než se jí ujali Trojákovi.
+
+Slova chvály pro Šest společníků
+================================
+
+.. attention::
+
+   Harryho Pottera jsem psala, abych si zkrátila čekání na Šest společníků. (J. K. Rowlingová)
+
+   Já a Galové jsme shodli na málo věcech. Šest společníků je jedna z nich! (I. Caesar - Zápisky z války galské)
+
+   Konečně můžeme napsat upřímnou kladnou recenzi! (New York Times)
+
+   Romány se dělí na dobré a špatné. A pak je tu Šest společníků!  (J. Wittlin - Vádemékum pro...)
+
+   Neztrácela bych čas s Padesáti odstíny šedi, kdybych mohla číst Šest společníků. (E. L. James)     
+
+   Goodbody, co je to za bolšánskou propagandu? (P. Ryan - Jak jsem vyhrál válku)
 
 Omluva za nedostatky
 ====================
