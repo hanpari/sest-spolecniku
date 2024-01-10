@@ -3,10 +3,11 @@
 
 *Dobrodružný román na pokračování s prvky fantasy a sci-fi*
 
-Šest postav a šest osudů! 
+**Šest postav a šest osudů!**
+ 
 
-Chladnokrevný Záviš
--------------------
+Cynický Záviš
+-------------
 
 "Společnost se ztrátami počítá. Máme proto kvalitní a zabezpečené sirotčince. V neděli tam dostaneš desert. Teď se prosím tvař vítězně. Ještě jsme nedohráli naše role."
 
@@ -23,7 +24,7 @@ Snaživý Medard
 Světácká Světlana
 -----------------
 
-"Naše věčně nespokojená kverulantka," povzdychla si baronka a objala i Světlanu.
+"Safra, táto, vzpamatuj se. Já nikdy nebudu jedna ruka s bohyní Trojákovou. Jakmile se kluci dozví, že u nás vegetuje, jsem vyřízený. Moje reputace v kopru, moje prestiž v háji. Stanu se odepsaným alfa samcem."
 
 Udatný Juraj
 ------------
@@ -33,7 +34,10 @@ Udatný Juraj
 Soustředěná Gabriela
 --------------------
 
-*Lepší než zůstat na podlaze,* pomyslela si a vzpomněla si na ubytovny, kterými prošla jako sirotek, než se jí ujali Trojákovi.
+Slovo *nepostradatelný* si Jakub přeložil jako *pokusné morče*.
+
+"Zlaté oči! Chystáš se na mně experimentovat!" vyhrkl.
+
 
 Slova chvály pro Šest společníků
 ================================
@@ -48,8 +52,12 @@ Slova chvály pro Šest společníků
 
    Romány se dělí na dobré a špatné. A pak je tu Šest společníků!  (J. Wittlin - Vádemékum pro...)
 
-   Neztrácela bych čas s Padesáti odstíny šedi, kdybych mohla číst Šest společníků. (E. L. James)     
+   Vždycky jsem tušil, že šest je lepší než pět. (K. Poláček)
 
+   Málo upírů a postavy, které nejsou černobílé. Nemyslím si, že by Šest společníků mělo šanci u čtenářů. (S. Meyer) 
+
+   Neztrácela bych čas s Padesáti odstíny šedi, kdybych mohla číst Šest společníků. (E. L. James)
+     
    Goodbody, co je to za bolšánskou propagandu? (P. Ryan - Jak jsem vyhrál válku)
 
 Omluva za nedostatky
@@ -132,6 +140,9 @@ Pokud na některé narazíte, upozorněte na ně prosím autora.
    sest_spolecniku/005-schizofrenie/4.md
    sest_spolecniku/005-schizofrenie/5.md
    sest_spolecniku/005-schizofrenie/6.md
+   sest_spolecniku/005-schizofrenie/7.md
+   sest_spolecniku/005-schizofrenie/8.md
+   sest_spolecniku/005-schizofrenie/9.md
 
 
 
