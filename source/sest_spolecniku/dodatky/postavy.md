@@ -14,7 +14,7 @@ Lékař **Herního Centra**
 
 ## Fafílková, Helena
 
-Administrátorka HC se specializací na nezletilé
+Poradce **Herního Centra** se zaměřením na nezletilé
 
 ## Koucký, Jeremiáš
 
@@ -53,6 +53,10 @@ Místopředseda studentské rady
 ## Oplatka, Ctibor
 
 Bookmaker
+
+## Radorad, Alibaba *Snížek* 
+
+Poradce **Herního Centra** se zaměřením na firemní zákazníky
 
 ## Soušek, Martin
 
