@@ -64,7 +64,7 @@ Hráč
 
 ## Štveráková, Leontýna
 
-Kurýr **Herního Centra**, fluid
+Kurýr **Herního Centra**, *fluid*
 
 ## Troják, Evžen
 
