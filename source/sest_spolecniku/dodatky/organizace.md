@@ -10,8 +10,13 @@
 
 Společný projekt soukromých a veřejných subjektů pro představení, zkoumání a vývoj Hry.
 
+## Lékařská-Soukromá
+
+Biochemické přípravky na míru
+
 ## Měsíční kameny
-restaurace
+
+Řetězec restaurací
 
 ## Svatoplukova univerzita
 
