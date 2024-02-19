@@ -14,7 +14,7 @@ Cynický Záviš
 Elegantní Lýdie
 ---------------
 
-*Je posedlá jedy,* všimla si Gabriela, když si uvědomila, kam se jejich debata stáčí. *Musí jít o čerstvou posedlost...*
+*Je posedlá jedy,* všimla si Gabriela, když si uvědomila, kam se jejich debata stáčí. *Musí jít o čerstvou posedlost…*
 
 Snaživý Medard
 --------------
@@ -29,7 +29,7 @@ Světácká Světlana
 Udatný Juraj
 ------------
 
-...nesnášel, když se ho kdokoliv snažil usadit do patřičných mezích, ale měl dost rozumu, aby neurazil zlatou dámu - byť pochyboval, že slovo dáma tu ženu vystihuje. 
+…nesnášel, když se ho kdokoliv snažil usadit do patřičných mezích, ale měl dost rozumu, aby neurazil zlatou dámu - byť pochyboval, že slovo dáma tu ženu vystihuje. 
 
 Soustředěná Gabriela
 --------------------
@@ -50,7 +50,7 @@ Slova chvály pro Šest společníků
 
    Konečně můžeme napsat upřímnou kladnou recenzi! (New York Times)
 
-   Romány se dělí na dobré a špatné. A pak je tu Šest společníků!  (J. Wittlin - Vádemékum pro...)
+   Romány se dělí na dobré a špatné. A pak je tu Šest společníků!  (J. Wittlin - Vádemékum pro…)
 
    Vždycky jsem tušil, že šest je lepší než pět. (K. Poláček)
 
