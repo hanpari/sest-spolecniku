@@ -73,3 +73,29 @@ Kurýr **Herního Centra**, *fluid*
 ## Trojáková, Světlana
 
 ## Velehradský, Záviš
+
+...
+
+## Rudolf
+
+zástupce cechmistra gildy **Bažantů**
+
+## Prudil
+
+zástupce cechmistra gildy **Čtveráků**
+
+## Velitel
+
+zástupce cechmistra gildy **Ježků**
+
+## Němý
+
+člen gildy **Ježků**
+
+## Jolana
+
+léčitelka gildy **Ježků**
+
+## Raťafák
+
+nezávislý zálesák
