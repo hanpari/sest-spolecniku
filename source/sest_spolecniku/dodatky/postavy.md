@@ -50,11 +50,15 @@ Místopředseda studentské rady
 
 ## Mechový, Medard
 
+## Neškodná, Jezábel
+
+profesorka Akademie, vedoucí křídla ???
+
 ## Oplatka, Ctibor
 
 Bookmaker
 
-## Radorad, Alibaba *Snížek* 
+## Radorad, Alibaba řečený *Snížek* 
 
 Poradce **Herního Centra** se zaměřením na firemní zákazníky
 
@@ -67,6 +71,8 @@ Hráč
 Kurýr **Herního Centra**, *fluid*
 
 ## Troják, Evžen
+
+Herec, hvězda TV seriálu Kočky v trní
 
 ## Troják, Juraj
 
