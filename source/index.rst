@@ -3,46 +3,8 @@
 
 *Dobrodružný román na pokračování s prvky fantasy a sci-fi*
 
-**Šest postav a šest osudů!**
- 
-
-Cynický Záviš
--------------
-
-"Společnost se ztrátami počítá. Máme proto kvalitní a zabezpečené sirotčince. V neděli tam dostaneš desert. Teď se prosím tvař vítězně. Ještě jsme nedohráli naše role."
-
-Elegantní Lýdie
----------------
-
-*Je posedlá jedy,* všimla si Gabriela, když si uvědomila, kam se jejich debata stáčí. *Musí jít o čerstvou posedlost…*
-
-Snaživý Medard
---------------
-
-*Jsem směšně uvědomělý,* napadlo ho. *Záviš by se mi vysmál.*
-
-Světácká Světlana
------------------
-
-"Safra, táto, vzpamatuj se. Já nikdy nebudu jedna ruka s bohyní Trojákovou. Jakmile se kluci dozví, že u nás vegetuje, jsem vyřízený. Moje reputace v kopru, moje prestiž v háji. Stanu se odepsaným alfa samcem."
-
-Udatný Juraj
-------------
-
-…nesnášel, když se ho kdokoliv snažil usadit do patřičných mezích, ale měl dost rozumu, aby neurazil zlatou dámu - byť pochyboval, že slovo dáma tu ženu vystihuje. 
-
-Soustředěná Gabriela
---------------------
-
-Slovo *nepostradatelný* si Jakub přeložil jako *pokusné morče*.
-
-"Zlaté oči! Chystáš se na mně experimentovat!" vyhrkl.
-
-
 Slova chvály pro Šest společníků
 ================================
-
-.. attention::
 
    Harryho Pottera jsem psala, abych si zkrátila čekání na Šest společníků. (J. K. Rowlingová)
 
