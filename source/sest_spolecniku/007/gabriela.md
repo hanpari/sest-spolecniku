@@ -1,0 +1,202 @@
+"Jméno?"
+
+"Gabriela z Mechového kopce."
+
+"Proč jste tady, ctěná slečno z Mechového kopce?"
+
+"Gabriela se zarazila. Právě vystála dlouhou frontu zájemců o přijímací zkoušku na zdejší akademii, aby se jí úřednice zeptala, proč tam stojí?
+
+"Jsem tady, abych koupila banány," odsekla.
+
+"Banány?"
+
+Úřednice zvedla oči, které do té chvíle měla zabořené do hromady papírů. "Ptám se proto, že studenti z urozených rodin chodí vedle."
+
+"Aha."
+
+Gabriela se postavila do delší řady úmyslně. Za prvé proto, že věřila, že studenti před ní měli důvod, proč si ji vybrali. A za druhé proto, že chtěla pozorovat okolí. Jaksi nepočítala s tím, že by zde zůstala sama, opuštěná jako kůl v plotě.
+
+Ukázalo se, že baron s baronkou patří mezi rodiče, kteří svým dětem dopřávají notnou míru volnosti. Když jejich vozidlo zastavilo před akademií, stručně se rozloučili a odjeli pryč s veselým máváním.
+
+*Zatracený Medard!* pomyslela si si. *Hodlají zalézt do nejbližšího hotelu jako dvě nadržené veverky!*
+
+Ať už byla na vině barončina náruživá povaha nebo slabá Medardova vůle, ti dva se naprosto nepokrytě zbavili svých ratolestí, lhostejní k jejich vyčítavým pohledům.
+
+Pokud šlo o Juraje či Světlanu, ti se jako starší sourozenci vraceli do známého prostředí, ale co ona?
+
+*Proč se cítím tak opuštěně?*
+
+Uvědomila si, že vnímá rozpoložení svého druhého já. Jako sirotek, skutečná Gabriela neznala city dětí, které mají rodiče.
+
+*Vzmuž se,* napomenula se a stoupla si do fronty, která jí dovedla až před překvapenou úřednici.
+
+"Zapíšete mne nebo ne?" zeptala se proto rozmrzele.
+
+Úřednice odložila psací pero.
+
+"Ale samozřejmě," řekla. "Je to poněkud *neortodoxní* a a můžete to vést k jistým zmatkům, ale samozřejmě vás zapíšu, má drahá. Pokud tedy nenamítáte nic proti tomu, že budete pod moji správou. My stejné krve si musíme pomáhat!"
+
+*Stejné krve? Co my dvě máme společného?* Gabriela zaváhala. *Matka mi neřekla, že tady najdu příbuznou.*
+
+Když se lépe zadívala, zjistila, že má před sebou čtyřicetiletou ženu. Mezi ní a baronkou nebyla žádná podoba; úřednice měla upjaté vystupování a vzezření: od pevně stažených vlasů do drdolu, přes obroučky tmavých brýlí až po decentní modrou uniformu se zlatým lemováním. Pod dlouhými rukávy nosila tenké hnědé rukavice z jemné kůže, které nesundávala ani když psala.
+
+Když si všimla Gabrielina udiveného výrazu, usmála se: "Je to tak těžké rozeznat?"
+
+Svlékla si rukavici z pravé ruky a stáhla tmavé brýle do půlky nosu. "A co takto?"
+
+Objevily se povědomé kozlí oči a na prstech nehtodrápy pečlivě opilované do nevinných obloučků.
+
+"Co se snažíte naznačit?"
+
+Přes téměř plíživé a spiklenecké pohyby, kterými ta osoba naznačovala, že patří ke stejnému sesterstvu, Gabriela se nenechala ohromit.
+
+"Jsem tvoje nevlastní teta," řekla žena a rychle si nasadila zpět brýle i rukavice, jako by se styděla, že ji někdo uvidí. "Tolik by ti mělo být jasné."
+
+"Proč?"
+
+"Proč?" opáčila žena užasle. "Copak ty nevíš nic z naší historie?"
+
+"Ne."
+
+"Pak se není co divit. Nejsem snad tak stará, abych vzdychala nad lhostejností mládeže, ale... Takhle bezostyšně se ukazovat na veřejnosti!" zamumlala žena a sklonila se zpět nad papíry. "Teď nemáme čas. Opravdu chceš patřit do mého oddělení?"
+
+"Neměla bych chtít?"
+
+"Obávám se, že tam stejně skončíš - vzhledem ke svému původu. Ale byla bych nerada, kdybys tvrdila, že jsi nedostala šanci. Ehm, nikdy jsi nepřemýšlela, že bys nosila rukavice a brýle jako já."
+
+"Ani na okamžik," ujistily ji obě Gabriely.
+
+Žena se studovala její přihlášku a zeptala se: "Mechový kopec? Kde to je?"
+
+"Panství za Lesem roztomilých kulíšků."
+
+"Předpokládám, že leží někde na hranicích. Brzy zjistíš, že zdejší lidé nejsou tak tolerantní jako vesničané."
+
+*Ach prosím,* vzdychla si Gabriela v duchu. *Tuhle písničku ne! Nechci hrát utlačovanou hrdinku nenáviděné rasy. Ostatně, nepředpokládá se, že vidláci budou zaostalí tam, kde měštáci odhazují předsudky?*
+
+"Je mi fuk, co si kdo myslí," odpověděla povzneseně.
+
+"Bravo!" zašeptala úřednice. "Velice nenápadně a tiše ti tleskám, má drahá. Jak se říká, lepší drzé čelo než poplužní dvůr. Budeme spolu skvěle vycházet. Jsem profesorka Jezábel Neškodná." 
+
+"Chcete, abych vám říkala teto, paní profesorko?" zeptala se Gabriela kapku zlomyslně. *Tahle příbuzná je k popukání!*
+
+"V soukromí, má drahá, pouze v soukromí. Ne snad proto, že bych byla tak zbabělá, jak si myslíš - ne, nic nenamítej, je mi jasné, že si pleteš mé mimikry s mojí přirozeností, ale naše instituce se snaží potírat veškeré známky *nepotismu*."
+
+*Plést si mimikry s přirozeností?* Gabriela měla na chvíli pocit, že mluví s jiným člověkem. *Je tahle Neškodná skutečně neškodná?*
+
+"Potírat nepotismus?" zeptala se raději. "A daří se?"
+
+"Příležitostně," řekla Jezábel významně.
+
+"Chápu."
+
+"Opravdu, má drahá?"
+
+Ale Gabriela chápala velmi dobře, co se Jezabel snaží naznačit. Když se naskytne vhodná příležitost, zdejší akademie neváhá zakročit - pokud tomu ovšem nebrání jiné zájmy. *Jako například...*
+
+Pohledem sledovala vyšňořené studenty a studentky ve vedlejších řadách, kteří byly odbavováni s uctivými poklonami. Společenské rozdíly nebylo třeba rozdělovat, všichni (až na ni) jako by věděli, kam patří a proto jen málokdy docházelo k nedopatřením.
+
+A pokud už k nedopatření došlo, vyřešila se sama od sebe.
+
+"Nebijte mne, prosím. Byl to omyl! Prosím."
+
+Její pozornost upoutala scéna o několik metrů vedle, kde jeden student v měšťanských šatech se dostal mezi urozenou mládež a ta nyní měla zábavu, když ho nechávala spráskat služebnictvem.
+
+Úřednice v uniformě školy, svým upjatým vzhledem Jezábelino dvojče, netrpělivě klepala do stolku: "Uklidníme se, ano? Zachovávejte pořádek!"
+
+Ale na na okamžik nepodnikla nic, aby bitému studentovi ulevila. Ten, aniž by utíkal, si jen schovával hlavu a volal o pomoc. Naštěstí mu sluhové nehodlali ublížit a šťouchali do něj, jen aby zkrátili svým pánům dlouhou chvíli.
+
+"Kampak, chlapče?"
+
+Když studenta konečně napadlo, že by měl utéct, velký sluha se mu postavil do cesty a pevně ho chytil za rameno. "Můj pán bude rád, když se k němu připojíš. Bál se, že škola bude příliš nudná, takže bude potřebovat rozptýlení."
+
+"Pusťte mne! Spletl jsem se. Neuvědomil jsem si, že stojím ve špatné řadě."
+
+"Nikdo neříká, že stojíš ve špatné řadě, chlapče. Jsme ti všichni moc vděční. Dokažme mu, přátelé, jak vděční mu jsme."
+
+Nastalo další kolo pohlavků a strkání. Po dláždění se rozsypaly papíry, které jejich nešťastná oběť svírala.
+
+"Chudáčku!"
+
+Velký sluha zvedl spadlou přihlášku a zvedl ji nad hlavu. "Vyskoč, chlapče, jestli ji chceš zpátky."
+
+"To je tady běžné?" zeptala se Gabriela. V sirotčinci zažila různé druhy šikany, ale nikdy ne před očima vychovatelů. Zdálo se, že tady žádné hranice neplatí.
+
+"Administrativní část nejspíš některým našim studentům připadá nudná," poznamenala Jezábel nevzrušeně.
+
+"Nudná?"
+
+"Ctěná slečno," ozvala se Tříjizvá, která všechno sledovala se zlomyslným zájmem. "Mám se přidat?"
+
+"Přidat se?" Gabriela se zamračila. "Proč bys měla?"
+
+"Možná by nebylo dobré, kdyby někteří špatně pochopili, na čí straně stojíme."
+
+"Já nestojím na žádné straně."
+
+Tříjizvá vypadala dychtivě, když se ptala, zda se smí zapojit do této legrace. Gabriela, která životem proplouvala tak, že si případné šikany nevšímala, aby se nestala jejím cílem, její nadšení pro věc nesdílela.
+
+*Má snad dojem, že když bude na straně vlku, nestane se loveným jelenem?*
+
+Gabriela sama se držela od vlků dál, zejména společnost sourozenců Trojákových ji poskytovala spolehlivou ochranu.
+
+Její druhé já si výjev také neužívalo, ale z jiných důvodů. *Ubohé, tak ubohé! Žádné skutečné vzrušení! Nikdy ani kapka krve!*
+
+Pokud mohla soudit, vysoký sluha nehrál takovou hru poprvé. Měl vrozený talent pro zachování rovnováhy: uměl dát trápené mému studentovi šanci, aby mu ji vzápětí vzal. Velká část urozené i neurozené mládeže se bavila, nebo to alespoň předstírala.
+
+*Lýdie má za to, že Lištiččino **psyché** formovala zdejší společnost. Není divu, když jsou vychováni takto.*
+
+Napadlo ji, zda by neměla zakročit. Nikoliv z dobrého srdce ale jako marketingový tah. Její přehnaně ambiciózní druhé já zoufale toužilo vyniknout. Herní Gabriela byla odvážná a divoká, ale také průměrná v intelektuální oblasti. Jako dcera barona z pohraničí neměla, jak upoutat pozornost svého okolí. Její nejlepší volbou bylo přidat se na stranu vlků a získat místo v jejich smečce - tak, jak navrhovala Tříjizvá.  Nebo také dopadnout jako šikanovaný student. Profesorka Neškodná svou odlišnost jistě neskrývala pro nic za nic.
+
+*Počítám, že tady přicházím na řadu já,* pomyslela si skutečná Gabriela. Sama neměla touhu společensky vynikat, ale synchronizace jí zpřeházela žebříček hodnot.
+
+*Přidat se k vlkům znamená stát se jednou z mnoha,* uvědomovala si, když si prohlížela povinné nadšení ostatních studentů. *Na druhou stranu, pokud zakročím, neurazím někoho významného?*
+
+"Čí je ten sluha," zeptala se.
+
+"Rodina hraběte z Větrné hůrky, tuším."
+
+"Někdo důležitý?"
+
+"Důležitý?" Jezábel Neškodná pohrdavě pokrčila rameny. "Tahle akademie viděla potomky vévodů se utopit v průměrnosti. Nezáleží, odkud pocházejí, ale kým se stanou."
+
+Pak se ďábelsky zašklebila: "Alespoň tolik tvrdí školní propaganda. Nevěříš, doufám, že lidé se rodí rovní?"
+
+"Chápu."
+
+*Zdejší systém tedy vykazuje známky *meritokracie*,* pomyslela si Gabriela.*Schopnosti, alespoň do jisté míry, určují jakého postavení studenti dosáhnou. Dědičné nároky existují **de facto**, nikoliv **de iure**.*
+
+"V tom případě," řekla hlasitě a otočila se k netrpělivě přihlížejících Tříjizvé, "vyřiď tomu chlapovi, že si přeji, aby okamžitě přestal. Nemohu se soustředit na dokumenty před sebou." 
+
+"Ale, ctěná slečno!"
+
+"Neslyšela jsi?"
+
+"Jste si jistá?"
+
+Tříjizvá nebyla hloupá a věděla, jak funguje hierarchie mezi lotry. Její paní se rozhodla zpochybnit autoritu vůdce smečky, dát najevo, že existuje i opozice.
+
+"Mám snad litovat, že jsem tě vzala do svých služeb?"
+
+"Samozřejmě že ne," odpověděla znetvořená služka a rozhodně zamířila k vysokému sluhovi.
+
+Ten se bavil tím, že sebral své oběti papíry a házel je vysoko do vzduchu.
+
+"Hej ty!" poklepala mu Tříjizvá na rameno.
+
+"Co je, krásko? No fuj!"
+
+Sluhův pohled se zkřivil odporem, když doputoval z obrovského výstřihu k ženině tváři. Tři rány bičíkem nejen vyryly tři brázdy v kdysi hladké kůži, ale po zahojení zdeformovaly levou stranu obličeje, takže koutek oka a rtů se stahovaly k uchu, neustále usazené do pitoreskního šklebu.
+
+"Má ctěná slečna si přeje, abys přestal," vyřídila mu Tříjizvá studeně. Stále si ještě nezvykla, že muži ji vnímají jinak. "Rušíš její přijímací řízení."
+
+"Tvá ctěná slečna?" zachechtal se sluha. "Od kdy jsou měšťanské dcery ctěné slečny. Peníze neznamenají všechno, má ctěná obludko."
+
+Dav se poslušně zachechtal a někteří si dokonce na Tříjizvou ukazovaly prstem. *Kdyby ve Hře existovaly telefony, už by si ji fotili,* pomyslela si Gabriela. Pak si všimla, že se na napřažených ukazováčcích blýskají prsteny. Nebylo to tak, že by Hra znala jen středověké technologie. Záviš, který měl teorii na všechno, se domníval, že existují uměle nastavené limity, které stanovují záhadní správci.
+
+
+
+
+
+
+
