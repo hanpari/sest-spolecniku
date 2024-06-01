@@ -52,7 +52,7 @@ Místopředseda studentské rady
 
 ## Neškodná, Jezábel
 
-profesorka Akademie, vedoucí křídla ???
+profesorka Akademie, vedoucí oddělení Rudá hvězda
 
 ## Oplatka, Ctibor
 
