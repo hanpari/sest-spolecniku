@@ -6,27 +6,37 @@
 Slova chvály pro Šest společníků
 ================================
 
+----
+
    Harryho Pottera jsem psala, abych si zkrátila čekání na Šest společníků. (J. K. Rowlingová)
+
+----
 
    Já a Galové jsme shodli na málo věcech. Šest společníků je jedna z nich! (I. Caesar - Zápisky z války galské)
 
+----
+
    Konečně můžeme napsat upřímnou kladnou recenzi! (New York Times)
+
+----
 
    Romány se dělí na dobré a špatné. A pak je tu Šest společníků!  (J. Wittlin - Vádemékum pro…)
 
+----
+
    Vždycky jsem tušil, že šest je lepší než pět. (K. Poláček)
+
+----
 
    Málo upírů a postavy, které nejsou černobílé. Nemyslím si, že by Šest společníků mělo šanci u čtenářů. (S. Meyer) 
 
+----
+
    Neztrácela bych čas s Padesáti odstíny šedi, kdybych mohla číst Šest společníků. (E. L. James)
-     
+
+----
+
    Goodbody, co je to za bolšánskou propagandu? (P. Ryan - Jak jsem vyhrál válku)
-
-Omluva za nedostatky
-====================
-
-V textu se objevují nechtěné hrubky a překlepy. 
-Pokud na některé narazíte, upozorněte na ně prosím autora. 
 
 
 Číst začněte zde

@@ -1,4 +1,4 @@
-Generate a picture of six people:
+Generate a beautiful picture of six people:
 
 Juraj - man, 20 yo, blond hair, 175 cm tall, muscular, with a sword in right hand, military uniform.
 Světlana - woman, 20 yo, 175 cm, blond hair, white robe, golden amulet, pigeon in her hand
@@ -7,4 +7,4 @@ Lýdie - woman, green eyes, red hair, 30 yo, black suit, ninja-like
 Medard - man, 40 yo, black beard, slightly fat, friendly, in rich noble robe
 Gabriela - woman, 19 yo, curly black hair
 
-Background: fantasy city with high towers.
+Background: fantasy city with high towers and ominious forest

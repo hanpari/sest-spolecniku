@@ -42,6 +42,10 @@ Své návrhy můžete zapracovat v gitovém repozitáři nebo poslat do sekce [i
 
 ## Sdílení Šesti společníků
 
-Pro nekomerční účely lze román Šest společníků šířit **kteroukoliv formou**, ať už digitální nebo fyzickou. To znamená, že můžete posílat Šest společníků **emailem**, sdílet ho na **sociálních sítích**, nebo **tisknout** či jinak **publikovat** pro své přátelé, známé nebo náhodné návštěvníky vašeho blogu.
+Pro nekomerční účely lze román Šest společníků šířit **kteroukoliv formou**, ať už digitální nebo fyzickou. Šest společníků můžete posílat **emailem**, sdílet ho na **sociálních sítích**, nebo **tisknout** či jinak **publikovat** pro své přátelé, známé nebo náhodné návštěvníky vašeho blogu.
 
-Nezapomínejte prosím na základní údaje o díle jako je **jméno autora**, **název románu** a **oficiální domovská stránka** [www.sest-spolecniku.cz](https://www.sest-spolecniku.cz/).
+Nezapomínejte prosím na základní údaje o díle: **název románu**, **jméno autora** a **oficiální domovská stránka** .
+
+Šest společníků
+hanpari
+[www.sest-spolecniku.cz](https://www.sest-spolecniku.cz/)
