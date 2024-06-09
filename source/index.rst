@@ -3,20 +3,22 @@
 
 *Dobrodružný román na pokračování s prvky fantasy a sci-fi*
 
-Slova chvály pro Šest společníků
-================================
+autor: **hanpari**
+
+
+.. image:: pictures/cervankove_mesto.png
+  :width: 600
+  :alt: Červánkové město
+
+Slova chvály
+============
+
+
+   Harryho Pottera jsem psala, abych si zkrátila čekání na Šest společníků. (J. K. Rowlingová - Harry Potter)
 
 ----
 
-   Harryho Pottera jsem psala, abych si zkrátila čekání na Šest společníků. (J. K. Rowlingová)
-
-----
-
-   Já a Galové jsme shodli na málo věcech. Šest společníků je jedna z nich! (I. Caesar - Zápisky z války galské)
-
-----
-
-   Konečně můžeme napsat upřímnou kladnou recenzi! (New York Times)
+   Já a Galové jsme shodli na málo věcech. Šest společníků byla jedna z nich! (I. Caesar - Zápisky z války galské)
 
 ----
 
@@ -24,15 +26,15 @@ Slova chvály pro Šest společníků
 
 ----
 
-   Vždycky jsem tušil, že šest je lepší než pět. (K. Poláček)
+   Vždycky jsem tušil, že šest je lepší než pět. (K. Poláček - Bylo nás pět)
 
 ----
 
-   Málo upírů a postavy, které nejsou černobílé. Nemyslím si, že by Šest společníků mělo šanci u čtenářů. (S. Meyer) 
+   Málo upírů! Nemyslím si, že by Šest společníků mělo u čtenářů šanci. (S. Meyer - Stmívání) 
 
 ----
 
-   Neztrácela bych čas s Padesáti odstíny šedi, kdybych mohla číst Šest společníků. (E. L. James)
+   Neztrácela bych čas s Padesáti odstíny šedi, kdybych mohla číst Šest společníků. (E. L. James - Padesát odstínů šedi)
 
 ----
 
@@ -115,6 +117,22 @@ Slova chvály pro Šest společníků
    sest_spolecniku/005-schizofrenie/7.md
    sest_spolecniku/005-schizofrenie/8.md
    sest_spolecniku/005-schizofrenie/9.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 6: Špatné zprávy
+
+   sest_spolecniku/006-spatne-zpravy/1.md
+   sest_spolecniku/006-spatne-zpravy/2.md
+   sest_spolecniku/006-spatne-zpravy/3.md
+   sest_spolecniku/006-spatne-zpravy/4.md
+   sest_spolecniku/006-spatne-zpravy/5.md
+   sest_spolecniku/006-spatne-zpravy/6.md
+   sest_spolecniku/006-spatne-zpravy/7.md
+   sest_spolecniku/006-spatne-zpravy/8.md
+   sest_spolecniku/006-spatne-zpravy/9.md
+   sest_spolecniku/006-spatne-zpravy/10.md
+
 
 
 
