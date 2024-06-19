@@ -1,48 +1,23 @@
+.. image:: data/sest_spolecniku_hanpari_obalka.png
+  :width: 600
+  :alt: Kniha Šest společníků
+
+----
+
 Šest společníků
 ===============
 
-*Dobrodružný román na pokračování s prvky fantasy a sci-fi*
 
-autor: **hanpari**
-
-
-.. image:: pictures/cervankove_mesto.png
-  :width: 600
-  :alt: Červánkové město
-
-Slova chvály
-============
+**HANPARI**
 
 
-   Harryho Pottera jsem psala, abych si zkrátila čekání na Šest společníků. (J. K. Rowlingová - Harry Potter)
+**Dva světy. Šest postav. Stovky příběhů.**
 
 ----
 
-   Já a Galové jsme shodli na málo věcech. Šest společníků byla jedna z nich! (I. Caesar - Zápisky z války galské)
+*Dobrodružný online román na pokračování s prvky sci-fi a fantasy v klasickém stylu*
 
 ----
-
-   Romány se dělí na dobré a špatné. A pak je tu Šest společníků!  (J. Wittlin - Vádemékum pro…)
-
-----
-
-   Vždycky jsem tušil, že šest je lepší než pět. (K. Poláček - Bylo nás pět)
-
-----
-
-   Málo upírů! Nemyslím si, že by Šest společníků mělo u čtenářů šanci. (S. Meyer - Stmívání) 
-
-----
-
-   Neztrácela bych čas s Padesáti odstíny šedi, kdybych mohla číst Šest společníků. (E. L. James - Padesát odstínů šedi)
-
-----
-
-   Goodbody, co je to za bolšánskou propagandu? (P. Ryan - Jak jsem vyhrál válku)
-
-
-Číst začněte zde
-================
 
 .. toctree::
    :maxdepth: 2
@@ -133,7 +108,13 @@ Slova chvály
    sest_spolecniku/006-spatne-zpravy/9.md
    sest_spolecniku/006-spatne-zpravy/10.md
 
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Kapitola 7: Gubernátorka v bílém
 
+..    sest_spolecniku/007-gubernatorka-v-bilem/1.md
+..    sest_spolecniku/007-gubernatorka-v-bilem/2.md
+..    sest_spolecniku/007-gubernatorka-v-bilem/3.md
 
 
 Další informace
