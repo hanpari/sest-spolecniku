@@ -108,13 +108,18 @@
    sest_spolecniku/006-spatne-zpravy/9.md
    sest_spolecniku/006-spatne-zpravy/10.md
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Kapitola 7: Gubernátorka v bílém
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 7: Gubernátorka v bílém
 
-..    sest_spolecniku/007-gubernatorka-v-bilem/1.md
-..    sest_spolecniku/007-gubernatorka-v-bilem/2.md
-..    sest_spolecniku/007-gubernatorka-v-bilem/3.md
+   sest_spolecniku/007-gubernatorka-v-bilem/1.md
+   sest_spolecniku/007-gubernatorka-v-bilem/2.md
+   sest_spolecniku/007-gubernatorka-v-bilem/3.md
+   sest_spolecniku/007-gubernatorka-v-bilem/4.md
+   sest_spolecniku/007-gubernatorka-v-bilem/5.md
+   sest_spolecniku/007-gubernatorka-v-bilem/6.md
+   sest_spolecniku/007-gubernatorka-v-bilem/7.md
+   sest_spolecniku/007-gubernatorka-v-bilem/8.md
 
 
 Další informace
@@ -126,10 +131,10 @@ Další informace
    
    sest_spolecniku/pokracovani.md
    sest_spolecniku/dodatky/informace.md
-   sest_spolecniku/dodatky/postavy.md
-   sest_spolecniku/dodatky/organizace.md
-   sest_spolecniku/dodatky/mista.md
-   sest_spolecniku/dodatky/vysvetlivky.md
+   .. sest_spolecniku/dodatky/postavy.md
+   .. sest_spolecniku/dodatky/organizace.md
+   .. sest_spolecniku/dodatky/mista.md
+   .. sest_spolecniku/dodatky/vysvetlivky.md
 
 
 Vyhledávání
