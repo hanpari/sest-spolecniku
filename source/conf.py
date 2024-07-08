@@ -13,7 +13,7 @@ author = "hanpari"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["myst_parser", "sphinx.ext.autosectionlabel"]
+extensions = ["myst_parser", "sphinx.ext.autosectionlabel", "sphinx_sitemap"]
 autosectionlabel_prefix_document = True
 
 templates_path = ["_templates"]
@@ -26,6 +26,7 @@ language = "cs"
 
 html_theme = "sphinx_book_theme"
 html_static_path = ["_static"]
+html_baseurl = "https://www.sest-spolecniku.cz/"
 
 html_css_files = [
     "css/custom.css",
