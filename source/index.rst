@@ -120,6 +120,9 @@
    sest_spolecniku/007-gubernatorka-v-bilem/6.md
    sest_spolecniku/007-gubernatorka-v-bilem/7.md
    sest_spolecniku/007-gubernatorka-v-bilem/8.md
+   sest_spolecniku/007-gubernatorka-v-bilem/9.md
+   sest_spolecniku/007-gubernatorka-v-bilem/10.md
+   sest_spolecniku/007-gubernatorka-v-bilem/11.md
 
 
 Další informace
