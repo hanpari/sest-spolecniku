@@ -48,6 +48,7 @@
 		"ještěřice",
 		"Jezábel",
 		"Jezábelino",
+		"jižanky",
 		"Juraj",
 		"Juraje",
 		"Jurajem",
@@ -102,6 +103,7 @@
 		"perplex",
 		"plasťáci",
 		"plasťácích",
+		"plasťácká",
 		"plasťák",
 		"plasťáka",
 		"plasťákem",
@@ -193,7 +195,8 @@
 		"zlatonosovi",
 		"zlatonosů",
 		"zlatonosům",
-		"zlatonosy"
+		"zlatonosy",
+		"zvýrazňovačů"
 	],
 	"[python]": {
 		"editor.defaultFormatter": "ms-python.black-formatter"

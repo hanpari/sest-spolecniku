@@ -27,6 +27,7 @@ language = "cs"
 html_theme = "sphinx_book_theme"
 html_static_path = ["_static"]
 html_baseurl = "https://www.sest-spolecniku.cz/"
+html_extra_path = ["robot.txt"]
 
 html_css_files = [
     "css/custom.css",
