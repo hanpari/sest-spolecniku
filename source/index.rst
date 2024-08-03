@@ -33,6 +33,7 @@
    sest_spolecniku/001-vstup-na-scenu/08.md
    sest_spolecniku/001-vstup-na-scenu/09.md
    sest_spolecniku/001-vstup-na-scenu/10.md
+   sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
@@ -48,6 +49,7 @@
    sest_spolecniku/002-jako-zadna-jina/08.md
    sest_spolecniku/002-jako-zadna-jina/09.md
    sest_spolecniku/002-jako-zadna-jina/10.md
+   sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
@@ -63,6 +65,7 @@
    sest_spolecniku/003-velke-dobrodruzstvi/08.md
    sest_spolecniku/003-velke-dobrodruzstvi/09.md
    sest_spolecniku/003-velke-dobrodruzstvi/10.md
+   sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
@@ -78,6 +81,7 @@
    sest_spolecniku/004-zavod-s-casem/08.md
    sest_spolecniku/004-zavod-s-casem/09.md
    sest_spolecniku/004-zavod-s-casem/10.md
+   sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
@@ -92,6 +96,7 @@
    sest_spolecniku/005-schizofrenie/7.md
    sest_spolecniku/005-schizofrenie/8.md
    sest_spolecniku/005-schizofrenie/9.md
+   sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
@@ -107,6 +112,7 @@
    sest_spolecniku/006-spatne-zpravy/8.md
    sest_spolecniku/006-spatne-zpravy/9.md
    sest_spolecniku/006-spatne-zpravy/10.md
+   sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
@@ -123,6 +129,7 @@
    sest_spolecniku/007-gubernatorka-v-bilem/9.md
    sest_spolecniku/007-gubernatorka-v-bilem/10.md
    sest_spolecniku/007-gubernatorka-v-bilem/11.md
+   sest_spolecniku/mezihra.md
 
 
 .. toctree::
