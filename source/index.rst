@@ -125,6 +125,17 @@
    sest_spolecniku/007-gubernatorka-v-bilem/11.md
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 8: Velmistr Devíti draků
+
+   sest_spolecniku/008-velmistr-deviti-draku/1.md
+   sest_spolecniku/008-velmistr-deviti-draku/2.md
+   sest_spolecniku/008-velmistr-deviti-draku/3.md
+   sest_spolecniku/008-velmistr-deviti-draku/4.md
+   sest_spolecniku/008-velmistr-deviti-draku/5.md
+
+
 Další informace
 ===============
 
