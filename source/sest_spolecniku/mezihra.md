@@ -1,8 +1,10 @@
 # Autorská mezihra
 
-Doufám, že se vám *Šest společníků* líbí.
+Doufám, že se vám **Šest společníků** líbí.
 
-Než budete pokračovat v další četbě, můžete prosím zhodnotit, co jste četli?
+Nezapomínejte [román](https://www.sest-spolecniku.cz/) doporučit svým přátelům, ať už na sociálních sítích nebo kdekoliv jinde. 
+
+Než budete pokračovat, můžete prosím zhodnotit, co jste četli?
 
 Pokud máte jakoukoliv připomínku nebo vzkaz, budu vděčný za každou čtenářskou odezvu.
 
@@ -25,6 +27,8 @@ Pokud máte jakoukoliv připomínku nebo vzkaz, budu vděčný za každou čten�
 ***
 
 Vážím si Vaší zpětné vazby a srdečně děkuji.
+
+
 
 *Hanpari*
 
