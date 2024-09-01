@@ -144,6 +144,8 @@
    sest_spolecniku/008-velmistr-deviti-draku/6.md
    sest_spolecniku/008-velmistr-deviti-draku/7.md
    sest_spolecniku/008-velmistr-deviti-draku/8.md
+   sest_spolecniku/008-velmistr-deviti-draku/9.md
+   sest_spolecniku/008-velmistr-deviti-draku/10.md
 
 
 Další informace
