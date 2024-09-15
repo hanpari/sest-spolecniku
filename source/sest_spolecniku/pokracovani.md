@@ -2,7 +2,7 @@
 
 Děkuji, že jste dočetli až sem. **Šest společníků** vychází jako internetový román na pokračování. Čili neskončil, pouze čeká na další kapitoly.
 
-**Nová dobrodružství očekávejte 15. září 2024.**
+**Nová dobrodružství očekávejte 1. listopadu 2024.**
 
 ## Šest společníků na Facebooku
 
