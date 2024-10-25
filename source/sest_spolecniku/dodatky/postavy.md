@@ -58,7 +58,7 @@ profesorka Akademie, vedoucí oddělení Rudá hvězda
 
 Bookmaker
 
-## Radorad, Alibaba řečený *Snížek* 
+## Radorad, Alibaba řečený *Snížek*
 
 Poradce **Herního Centra** se zaměřením na firemní zákazníky
 
@@ -77,6 +77,8 @@ Herec, hvězda TV seriálu Kočky v trní
 ## Troják, Juraj
 
 ## Trojáková, Světlana
+
+## Trojáková, Médea
 
 ## Velehradský, Záviš
 
