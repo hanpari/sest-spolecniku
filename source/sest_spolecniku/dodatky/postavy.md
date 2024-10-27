@@ -50,15 +50,23 @@ Místopředseda studentské rady
 
 ## Mechový, Medard
 
+## Mejdrová, Sabina
+
+studentka ekonomie
+
 ## Neškodná, Jezábel
 
 profesorka Akademie, vedoucí oddělení Rudá hvězda
+
+## Nozár, Robert
+
+člen *Elity*
 
 ## Oplatka, Ctibor
 
 Bookmaker
 
-## Radorad, Alibaba řečený *Snížek*
+## Radorad, Alibaba "Snížek"
 
 Poradce **Herního Centra** se zaměřením na firemní zákazníky
 
@@ -69,6 +77,10 @@ Hráč
 ## Štveráková, Leontýna
 
 Kurýr **Herního Centra**, *fluid*
+
+## Tabarová, Amálie
+
+studentka ekonomie, členka *Elity* ve zkušebním období
 
 ## Troják, Evžen
 
@@ -81,6 +93,8 @@ Herec, hvězda TV seriálu Kočky v trní
 ## Trojáková, Médea
 
 ## Velehradský, Záviš
+
+## Vránová, Eliška "Vrána"
 
 ...
 
