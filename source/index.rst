@@ -149,6 +149,16 @@
    sest_spolecniku/008-velmistr-deviti-draku/11.md
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 9: Herecké etudy
+
+   sest_spolecniku/009-herecke-etudy/01.md
+   sest_spolecniku/009-herecke-etudy/02.md
+   sest_spolecniku/009-herecke-etudy/03.md
+   sest_spolecniku/009-herecke-etudy/04.md
+
+
 Další informace
 ===============
 
