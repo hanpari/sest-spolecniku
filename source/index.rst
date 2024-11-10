@@ -157,6 +157,9 @@
    sest_spolecniku/009-herecke-etudy/02.md
    sest_spolecniku/009-herecke-etudy/03.md
    sest_spolecniku/009-herecke-etudy/04.md
+   sest_spolecniku/009-herecke-etudy/05.md
+   sest_spolecniku/009-herecke-etudy/06.md
+   sest_spolecniku/009-herecke-etudy/07.md
 
 
 Další informace
