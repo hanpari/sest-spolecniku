@@ -34,11 +34,11 @@ Uvědomila si, že vnímá rozpoložení svého druhého já. Jako sirotek, skut
 
 Úřednice odložila psací pero.
 
-"Ale samozřejmě," řekla. "Je to poněkud *neortodoxní* a a můžete to vést k jistým zmatkům, ale samozřejmě vás zapíšu, má drahá. Pokud tedy nenamítáte nic proti tomu, že budete pod moji správou. My stejné krve si musíme pomáhat!"
+"Ale samozřejmě," řekla. "Je to poněkud *neortodoxní* a a můžete to vést k jistým zmatkům, ale samozřejmě tě zapíšu, má drahá. Pokud tedy nenamítáš, že budeš pod moji správou. My stejné krve si musíme pomáhat!"
 
 *Stejné krve? Co my dvě máme společného?* Gabriela zaváhala. *Matka mi neřekla, že tady najdu příbuznou.*
 
-Když se lépe zadívala, zjistila, že má před sebou čtyřicetiletou ženu. Mezi ní a baronkou nebyla žádná podoba; úřednice měla upjaté vystupování a vzezření: od pevně stažených vlasů do drdolu, přes obroučky tmavých brýlí až po decentní modrou uniformu se zlatým lemováním. Pod dlouhými rukávy nosila tenké hnědé rukavice z jemné kůže, které nesundávala ani když psala.
+Když se lépe zadívala, zjistila, že má před sebou čtyřicetiletou ženu. Mezi ní a baronkou nebyla žádná podoba; úřednice měla upjaté vystupování a vzezření: od pevně stažených vlasů do drdolu, přes obroučky tmavých brýlí až po decentní modrou uniformu se zlatým lemováním. Pod dlouhými rukávy nosila tenké hnědé rukavice z jemné kůže, které nesundávala, ani když psala.
 
 Když si všimla Gabrielina udiveného výrazu, usmála se: "Je to tak těžké rozeznat?"
 
@@ -54,11 +54,11 @@ Přes téměř plíživé a spiklenecké pohyby, kterými ta osoba naznačovala,
 
 "Proč?"
 
-"Proč?" opáčila žena užasle. "Copak ty nevíš nic z naší historie?"
+"Proč?" opáčila žena užasle. "Copak ty nevíš nic ze své historie?"
 
 "Ne."
 
-"Pak se není co divit. Nejsem snad tak stará, abych vzdychala nad lhostejností mládeže, ale... Takhle bezostyšně se ukazovat na veřejnosti!" zamumlala žena a sklonila se zpět nad papíry. "Teď nemáme čas. Opravdu chceš patřit do mého oddělení?"
+"Pak se není co divit. Nejsem snad tak stará, abych vzdychala nad nevzdělaností mládeže, ale... Takhle bezostyšně se ukazovat na veřejnosti!" zamumlala žena a sklonila se zpět nad papíry. "Teď nemáme čas. Opravdu chceš patřit do mého oddělení?"
 
 "Neměla bych chtít?"
 
@@ -76,7 +76,7 @@ Přes téměř plíživé a spiklenecké pohyby, kterými ta osoba naznačovala,
 
 "Je mi fuk, co si kdo myslí," odpověděla povzneseně.
 
-"Bravo!" zašeptala úřednice. "Velice nenápadně a tiše ti tleskám, má drahá. Jak se říká, lepší drzé čelo než poplužní dvůr. Budeme spolu skvěle vycházet. Jsem profesorka Jezábel Neškodná." 
+"Bravo!" zašeptala úřednice. "Velice nenápadně a tiše ti tleskám, má drahá. Jak se říká, lepší drzé čelo než poplužní dvůr. Budeme spolu skvěle vycházet. Jsem profesorka Jezábel Neškodná."
 
 "Chcete, abych vám říkala teto, paní profesorko?" zeptala se Gabriela kapku zlomyslně. *Tahle příbuzná je k popukání!*
 
@@ -92,25 +92,25 @@ Přes téměř plíživé a spiklenecké pohyby, kterými ta osoba naznačovala,
 
 "Opravdu, má drahá?"
 
-Ale Gabriela chápala velmi dobře, co se Jezabel snaží naznačit. Když se naskytne vhodná příležitost, zdejší akademie neváhá zakročit - pokud tomu ovšem nebrání jiné zájmy. *Jako například...*
+Ale Gabriela chápala velmi dobře, co se Jezabel snaží naznačit. Když se naskytne vhodná příležitost, zdejší akademie neváhá zakročit - pokud nápravě nebrání jiné zájmy. *Jako například...*
 
-Pohledem sledovala vyšňořené studenty a studentky ve vedlejších řadách, kteří byly odbavováni s uctivými poklonami. Společenské rozdíly nebylo třeba rozdělovat, všichni (až na ni) jako by věděli, kam patří a proto jen málokdy docházelo k nedopatřením.
+Pohledem sledovala vyšňořené studenty a studentky ve vedlejších řadách, kteří byly odbavováni s uctivými poklonami. Společenské rozdíly nebylo třeba rozdělovat, všichni (až na ni) věděli, kam patří a málokdy docházelo k nedopatřením.
 
-A pokud už k nedopatření došlo, vyřešila se sama od sebe.
+A pokud k nedopatření došlo, vyřešila se sama od sebe.
 
-"Nebijte mne, prosím. Byl to omyl! Prosím."
+"Nebijte mne, prosím. Spletl jsem se! Prosím."
 
-Její pozornost upoutala scéna o několik metrů vedle, kde jeden student v měšťanských šatech se dostal mezi urozenou mládež a ta nyní měla zábavu, když ho nechávala spráskat služebnictvem.
+Její pozornost upoutala scéna o několik metrů vedle. Student v měšťanských šatech se dostal mezi urozenou mládež a ta nyní měla zábavu, když ho nechávala spráskat služebnictvem.
 
-Úřednice v uniformě školy, svým upjatým vzhledem Jezábelino dvojče, netrpělivě klepala do stolku: "Uklidníme se, ano? Zachovávejte pořádek!"
+Úřednice či profesorka v uniformě školy, svým upjatým vzhledem Jezábelino dvojče, netrpělivě klepala do stolku: "Uklidníme se, ano? Zachovávejte pořádek!"
 
-Ale na na okamžik nepodnikla nic, aby bitému studentovi ulevila. Ten, aniž by utíkal, si jen schovával hlavu a volal o pomoc. Naštěstí mu sluhové nehodlali ublížit a šťouchali do něj, jen aby zkrátili svým pánům dlouhou chvíli.
+Ale nepodnikla nic, aby bitému studentovi ulevila. Ten, aniž by utíkal, si schovával hlavu a volal o pomoc. Naštěstí mu sluhové nehodlali ublížit a šťouchali do něj, aby zkrátili svým pánům dlouhou chvíli.
 
 "Kampak, chlapče?"
 
-Když studenta konečně napadlo, že by měl utéct, velký sluha se mu postavil do cesty a pevně ho chytil za rameno. "Můj pán bude rád, když se k němu připojíš. Bál se, že škola bude příliš nudná, takže bude potřebovat rozptýlení."
+Když studenta napadlo, že by měl utéct, velký sluha se mu postavil do cesty a pevně ho chytil za rameno. "Můj pán bude rád, když se k němu připojíš. Bál se, že škola bude příliš nudná, takže bude potřebovat rozptýlení."
 
-"Pusťte mne! Spletl jsem se. Neuvědomil jsem si, že stojím ve špatné řadě."
+"Pusťte mne! Moje chyba! Neuvědomil jsem si, že stojím ve špatné řadě."
 
 "Nikdo neříká, že stojíš ve špatné řadě, chlapče. Jsme ti všichni moc vděční. Dokažme mu, přátelé, jak vděční mu jsme."
 
@@ -122,7 +122,7 @@ Velký sluha zvedl spadlou přihlášku a zvedl ji nad hlavu. "Vyskoč, chlapče
 
 "To je tady běžné?" zeptala se Gabriela. V sirotčinci zažila různé druhy šikany, ale nikdy ne před očima vychovatelů. Zdálo se, že tady žádné hranice neplatí.
 
-"Administrativní část nejspíš některým našim studentům připadá nudná," poznamenala Jezábel nevzrušeně.
+"Administrativní část nejspíš našim studentům připadá nudná," poznamenala Jezábel nevzrušeně.
 
 "Nudná?"
 
@@ -134,7 +134,7 @@ Velký sluha zvedl spadlou přihlášku a zvedl ji nad hlavu. "Vyskoč, chlapče
 
 "Já nestojím na žádné straně."
 
-Tříjizvá vypadala dychtivě, když se ptala, zda se smí zapojit do této legrace. Gabriela, která životem proplouvala tak, že si případné šikany nevšímala, aby se nestala jejím cílem, její nadšení pro věc nesdílela.
+Tříjizvá vypadala dychtivě, když se ptala, zda se smí zapojit do legrace. Gabriela, která životem proplouvala tak, že si případné šikany nevšímala, aby se nestala jejím cílem, její nadšení pro věc nesdílela.
 
 *Má snad dojem, že když bude na straně vlku, nestane se loveným jelenem?*
 
@@ -142,11 +142,11 @@ Gabriela sama se držela od vlků dál, zejména společnost sourozenců Troják
 
 Její druhé já si výjev také neužívalo, ale z jiných důvodů. *Ubohé, tak ubohé! Žádné skutečné vzrušení! Nikdy ani kapka krve!*
 
-Pokud mohla soudit, vysoký sluha nehrál takovou hru poprvé. Měl vrozený talent pro zachování rovnováhy: uměl dát trápené mému studentovi šanci, aby mu ji vzápětí vzal. Velká část urozené i neurozené mládeže se bavila, nebo to alespoň předstírala.
+Pokud mohla soudit, vysoký sluha nehrál hru poprvé. Měl vrozený talent pro zachování rovnováhy: uměl dát trápené mému studentovi šanci, aby mu ji vzápětí vzal. Velká část urozené i neurozené mládeže se bavila, nebo tolik alespoň předstírala.
 
 *Lýdie má za to, že Lištiččino **psyché** formovala zdejší společnost. Není divu, když jsou vychováni takto.*
 
-Napadlo ji, zda by neměla zakročit. Nikoliv z dobrého srdce ale jako marketingový tah. Její přehnaně ambiciózní druhé já zoufale toužilo vyniknout. Herní Gabriela byla odvážná a divoká, ale také průměrná v intelektuální oblasti. Jako dcera barona z pohraničí neměla, jak upoutat pozornost svého okolí. Její nejlepší volbou bylo přidat se na stranu vlků a získat místo v jejich smečce - tak, jak navrhovala Tříjizvá.  Nebo také dopadnout jako šikanovaný student. Profesorka Neškodná svou odlišnost jistě neskrývala pro nic za nic.
+Napadlo ji, zda by neměla zakročit. Nikoliv z dobrého srdce, ale jako marketingový tah. Její přehnaně ambiciózní druhé já zoufale toužilo vyniknout. Herní Gabriela byla odvážná a divoká, ale také průměrná v intelektuální oblasti. Jako dcera barona z pohraničí neměla, jak upoutat pozornost svého okolí. Její nejlepší volbou bylo přidat se na stranu vlků a získat místo v jejich smečce - tak, jak navrhovala Tříjizvá.  Nebo také dopadnout jako šikanovaný student. Profesorka Neškodná svou odlišnost jistě neskrývala pro nic za nic.
 
 *Počítám, že tady přicházím na řadu já,* pomyslela si skutečná Gabriela. Sama neměla touhu společensky vynikat, ale synchronizace jí zpřeházela žebříček hodnot.
 
@@ -166,7 +166,7 @@ Pak se ďábelsky zašklebila: "Alespoň tolik tvrdí školní propaganda. Nevě
 
 *Zdejší systém tedy vykazuje známky *meritokracie*,* pomyslela si Gabriela.*Schopnosti, alespoň do jisté míry, určují jakého postavení studenti dosáhnou. Dědičné nároky existují **de facto**, nikoliv **de iure**.*
 
-"V tom případě," řekla hlasitě a otočila se k netrpělivě přihlížejících Tříjizvé, "vyřiď tomu chlapovi, že si přeji, aby okamžitě přestal. Nemohu se soustředit na dokumenty před sebou." 
+"V tom případě," řekla hlasitě a otočila se k netrpělivě přihlížejících Tříjizvé, "vyřiď tomu chlapovi, že si přeji, aby okamžitě přestal. Nemohu se soustředit na dokumenty před sebou."
 
 "Ale, ctěná slečno!"
 
@@ -193,10 +193,3 @@ Sluhův pohled se zkřivil odporem, když doputoval z obrovského výstřihu k �
 "Tvá ctěná slečna?" zachechtal se sluha. "Od kdy jsou měšťanské dcery ctěné slečny. Peníze neznamenají všechno, má ctěná obludko."
 
 Dav se poslušně zachechtal a někteří si dokonce na Tříjizvou ukazovaly prstem. *Kdyby ve Hře existovaly telefony, už by si ji fotili,* pomyslela si Gabriela. Pak si všimla, že se na napřažených ukazováčcích blýskají prsteny. Nebylo to tak, že by Hra znala jen středověké technologie. Záviš, který měl teorii na všechno, se domníval, že existují uměle nastavené limity, které stanovují záhadní správci.
-
-
-
-
-
-
-
