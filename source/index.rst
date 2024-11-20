@@ -160,6 +160,8 @@
    sest_spolecniku/009-herecke-etudy/05.md
    sest_spolecniku/009-herecke-etudy/06.md
    sest_spolecniku/009-herecke-etudy/07.md
+   sest_spolecniku/009-herecke-etudy/08.md
+   sest_spolecniku/009-herecke-etudy/09.md
 
 
 Další informace
