@@ -147,6 +147,7 @@
    sest_spolecniku/008-velmistr-deviti-draku/9.md
    sest_spolecniku/008-velmistr-deviti-draku/10.md
    sest_spolecniku/008-velmistr-deviti-draku/11.md
+   sest_spolecniku/mezihra.md
 
 
 .. toctree::
@@ -162,6 +163,7 @@
    sest_spolecniku/009-herecke-etudy/07.md
    sest_spolecniku/009-herecke-etudy/08.md
    sest_spolecniku/009-herecke-etudy/09.md
+   sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
@@ -170,6 +172,7 @@
    sest_spolecniku/010-vnucka-demonu/01.md
    sest_spolecniku/010-vnucka-demonu/02.md
    sest_spolecniku/010-vnucka-demonu/03.md
+   sest_spolecniku/010-vnucka-demonu/04.md
 
 
 Další informace
