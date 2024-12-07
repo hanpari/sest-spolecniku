@@ -4,6 +4,7 @@
 
 ----
 
+===============
 Šest společníků
 ===============
 
@@ -18,6 +19,32 @@
 *Dobrodružný online román na pokračování s prvky sci-fi a fantasy v klasickém stylu*
 
 ----
+
+
+Šest společníků a Srdce lesapána
+================================
+
+**Kniha první**
+
+Co se stane, když vás nespavost donutí vstoupit do záhadného centra? Hra nebo Skutečnost? Co je děsivější? Váš dvorní potížista vás provede světem, jaký možná bude za sto let. Věřte, že nikdy není dost zle, aby nebylo ještě hůř.
+
+Je Záviš Velehradský příliš cynický na váš vkus? Nevadí, malá víla ho také nemá ráda.
+
+Zkuste tedy Lýdii Krajcarovou, korporátní princeznu, která touží po klidném životě, ale pokusí se ji zabít vlastní otec. 
+
+Příliš nóbl? 
+
+Pak co Medard Mechový, muž, který splňuje veškeré požadavky kladené na prostého otce rodiny? Pokud ovšem nezemře na virovou infekci a smíří se s tím, že se stal manželem démonické krásky.
+
+Nebo máte rádi srdceryvné příběhy o sirotách? Pak by Gabriela Márová měla splnit všechna vaše očekávání. Kdyby měla city! Takhle se může zdát poněkud chladnokrevná. Ale i tak vás přivede k pláči.
+
+Za ní přichází Juraj Troják, hrdina podle vašeho gusta. Škoda, že žije ve stínu své sestry a neví, čím by chtěl nebo mohl být. Nikdy mu ovšem neříkejte *Žalude*!
+
+Pokud vás neuspokojil žádný z předchozích, pak oslnivá kráska a školní bohyně Světlana Trojáková podmaní vaše okoralá srdce. Je sečtělá, mluví francouzsky i latinsky, má povahu světice a Lukáš Mechový si o ní myslí, že je dokonalá mrcha.
+
+Chcete vědět víc? Pak nezbývá než číst dál...
+
+
 
 .. toctree::
    :maxdepth: 2
@@ -149,6 +176,9 @@
    sest_spolecniku/008-velmistr-deviti-draku/11.md
    sest_spolecniku/mezihra.md
 
+
+Šest společníků a Červánkové Město
+==================================
 
 .. toctree::
    :maxdepth: 2
