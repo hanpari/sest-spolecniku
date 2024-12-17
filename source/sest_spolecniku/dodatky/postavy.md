@@ -84,7 +84,7 @@ studentka ekonomie, členka *Elity* ve zkušebním období
 
 ## Troják, Evžen
 
-Herec, hvězda TV seriálu Kočky v trní
+Herec, hvězda TV seriálu Kočky v růžích
 
 ## Troják, Juraj
 
