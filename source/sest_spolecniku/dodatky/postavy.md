@@ -96,28 +96,60 @@ Herec, hvězda TV seriálu Kočky v růžích
 
 ## Vránová, Eliška "Vrána"
 
-...
+## Zálesáci
 
-## Rudolf
+### Rudolf
 
 zástupce cechmistra gildy **Bažantů**
 
-## Prudil
+### Prudil
 
 zástupce cechmistra gildy **Čtveráků**
 
-## Velitel
+### Velitel
 
 zástupce cechmistra gildy **Ježků**
 
-## Němý
+### Němý
 
 člen gildy **Ježků**
 
-## Jolana
+### Jolana
 
 léčitelka gildy **Ježků**
 
-## Raťafák
+### Raťafák
 
 nezávislý zálesák
+
+
+## Chrám sladké paní Lady
+
+### bratr Ambrož
+
+vysvěcený kněz, člen chrámové rady
+
+
+### bratr Benedikt
+
+nevysvěcený novic
+
+### bratr Bohumil
+
+velekněz, nejvyšší kněz chrámu v Červánkovém Městě
+
+## Akademie vyšších věd
+
+### Neškodná, Jezabel
+
+### Truchlivá, Jelizaveta
+
+## Gubernátorský úřad Červánkového Města
+
+### gubernátorka
+
+### revizorka
+
+### tajemník
+
+### vykonavatel
