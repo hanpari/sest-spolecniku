@@ -208,6 +208,17 @@ Chcete vědět víc? Pak nezbývá než číst dál...
    sest_spolecniku/010-vnucka-demonu/07.md
    sest_spolecniku/010-vnucka-demonu/08.md
    sest_spolecniku/010-vnucka-demonu/09.md
+   sest_spolecniku/mezihra.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 11: Šití bílou nití
+
+   sest_spolecniku/011-siti-bilou-niti/01.md
+   sest_spolecniku/011-siti-bilou-niti/02.md
+   sest_spolecniku/011-siti-bilou-niti/03.md
+   sest_spolecniku/011-siti-bilou-niti/04.md
+   sest_spolecniku/011-siti-bilou-niti/05.md
 
 
 Další informace
