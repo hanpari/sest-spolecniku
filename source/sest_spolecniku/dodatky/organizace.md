@@ -10,6 +10,10 @@
 
 Společný projekt soukromých a veřejných subjektů pro představení, zkoumání a vývoj Hry.
 
+## Krása-Styl
+
+Výrobce konfekce
+
 ## Lékařská-Soukromá
 
 Biochemické přípravky na míru

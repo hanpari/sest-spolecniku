@@ -2,19 +2,25 @@
 
 ## Černodušný, Cyril
 
+Lékař **Herního Centra**
+
 ## Drbohlav, Alois
 
-finanční ředitel **Technika-Zahradní**
+finanční ředitel pobočky **Technika-Zahradní**
 
 ## Drbohlavová, Karolína
 
-lidské zdroje **Technika-Zahradní**
+Lidské zdroje **Technika-Zahradní**
 
-Lékař **Herního Centra**
 
 ## Fafílková, Helena
 
 Poradce **Herního Centra** se zaměřením na nezletilé
+
+## Hrabavý, Josef
+
+Občan čtvrté kategorie, Hráč za **Krása-Styl**
+
 
 ## Koucký, Jeremiáš
 
@@ -33,6 +39,10 @@ Zakladatel a hlavní podílník **Asfaltové-Cestovní**
 Nevlastní sestra Lýdie a vlastní mladší sestra Alfréda Krajcarových
 
 ## Krajcarová, Lýdie
+
+## Krtinec, Josef
+
+Občan čtvrté kategorie, Hráč za **Krása-Styl**
 
 ## Kuběnová, Alexandra
 
