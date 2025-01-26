@@ -1,5 +1,5 @@
 # Seznam míst
 
-## Červánkové město
+## Červánkové Město
 
-## Les roztomilých kulíšků
+## Les Roztomilých kulíšků
