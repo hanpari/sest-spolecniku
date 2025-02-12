@@ -92,6 +92,10 @@ Kurýr **Herního Centra**, *fluid*
 
 studentka ekonomie, členka *Elity* ve zkušebním období
 
+## Ťavodová, Libuše
+
+členka týmu **První-Spořitelní** <> vikomtesa z *Údolí plchů*
+
 ## Troják, Evžen
 
 Herec, hvězda TV seriálu Kočky v růžích
