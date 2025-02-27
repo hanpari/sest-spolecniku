@@ -88,6 +88,11 @@ Hráč
 
 Kurýr **Herního Centra**, *fluid*
 
+## Šouravá, Věra
+
+**JAK MODEL, TAK MODELKA**
+
+
 ## Tabarová, Amálie
 
 studentka ekonomie, členka *Elity* ve zkušebním období
