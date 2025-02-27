@@ -20,6 +20,16 @@
 
 ----
 
+Jak **Šest společníků** hodnotí čtenářky a čtenáři?
+
+----
+
+.. image:: data/hodnoceni.png
+  :width: 600
+  :alt: Průběžné čtenářské hodnocení
+
+----
+
 
 Šest společníků a Srdce lesapána
 ================================
