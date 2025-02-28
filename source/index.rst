@@ -237,6 +237,19 @@ Pak nezbývá než číst dál...
    sest_spolecniku/011-siti-bilou-niti/09.md
    sest_spolecniku/011-siti-bilou-niti/10.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 12: O patro dál
+
+   sest_spolecniku/012-o-patro-dal/01.md
+   sest_spolecniku/012-o-patro-dal/02.md
+   sest_spolecniku/012-o-patro-dal/03.md
+   sest_spolecniku/012-o-patro-dal/04.md
+   sest_spolecniku/012-o-patro-dal/05.md
+   sest_spolecniku/012-o-patro-dal/06.md
+   sest_spolecniku/012-o-patro-dal/07.md
+   sest_spolecniku/012-o-patro-dal/08.md
+
 
 Další informace
 ===============
