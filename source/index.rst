@@ -236,6 +236,7 @@ Pak nezbývá než číst dál...
    sest_spolecniku/011-siti-bilou-niti/08.md
    sest_spolecniku/011-siti-bilou-niti/09.md
    sest_spolecniku/011-siti-bilou-niti/10.md
+   sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
