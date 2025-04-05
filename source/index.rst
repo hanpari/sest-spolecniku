@@ -250,6 +250,18 @@ Pak nezbývá než číst dál...
    sest_spolecniku/012-o-patro-dal/06.md
    sest_spolecniku/012-o-patro-dal/07.md
    sest_spolecniku/012-o-patro-dal/08.md
+   sest_spolecniku/012-o-patro-dal/09.md
+   sest_spolecniku/012-o-patro-dal/10.md
+   sest_spolecniku/mezihra.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 13: Pavouci a masky
+
+   sest_spolecniku/013-pavouci-a-masky/01.md
+   sest_spolecniku/013-pavouci-a-masky/02.md
+   sest_spolecniku/013-pavouci-a-masky/03.md
 
 
 Další informace
