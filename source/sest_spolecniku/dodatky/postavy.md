@@ -1,14 +1,14 @@
 # Seznam postav
-
-## Černodušný, Cyril
+## Podsvět
+### Černodušný, Cyril
 
 Lékař **Herního Centra**
 
-## Drbohlav, Alois
+### Drbohlav, Alois
 
-finanční ředitel pobočky **Technika-Zahradní**
+Finanční ředitel pobočky **Technika-Zahradní**
 
-## Drbohlavová, Karolína
+### Drbohlavová, Karolína
 
 Lidské zdroje **Technika-Zahradní**
 
@@ -17,7 +17,7 @@ Lidské zdroje **Technika-Zahradní**
 
 Poradce **Herního Centra** se zaměřením na nezletilé
 
-## Hrabavý, Josef
+## Hromadný, Josef
 
 Občan čtvrté kategorie, Hráč za **Krása-Styl**
 
@@ -46,7 +46,7 @@ Občan čtvrté kategorie, Hráč za **Krása-Styl**
 
 ## Kuběnová, Alexandra
 
-občanka první kategorie
+Občanka první kategorie
 
 ## Lízal, Jakub
 
@@ -115,27 +115,29 @@ Herec, hvězda TV seriálu Kočky v růžích
 
 ## Vránová, Eliška "Vrána"
 
-## Zálesáci
+## Svět
 
-### Rudolf
+### Zálesáci
+
+#### Rudolf
 
 zástupce cechmistra gildy **Bažantů**
 
-### Prudil
+#### Prudil
 
 zástupce cechmistra gildy **Čtveráků**
 
-### Velitel
+#### Velitel
 
 zástupce cechmistra gildy **Ježků**
 
-### Němý
+#### Němý
 
 člen gildy **Ježků**
 
-### Jolana
+#### Jolana
 
-léčitelka gildy **Ježků**
+léčitelka gildy **Ježků**, pozdější 
 
 ### Raťafák
 
