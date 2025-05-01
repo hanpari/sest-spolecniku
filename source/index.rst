@@ -262,6 +262,12 @@ Pak nezbývá než číst dál...
    sest_spolecniku/013-pavouci-a-masky/01.md
    sest_spolecniku/013-pavouci-a-masky/02.md
    sest_spolecniku/013-pavouci-a-masky/03.md
+   sest_spolecniku/013-pavouci-a-masky/04.md
+   sest_spolecniku/013-pavouci-a-masky/05.md
+   sest_spolecniku/013-pavouci-a-masky/06.md
+   sest_spolecniku/013-pavouci-a-masky/07.md
+   sest_spolecniku/013-pavouci-a-masky/08.md
+   sest_spolecniku/013-pavouci-a-masky/09.md
 
 
 Další informace
