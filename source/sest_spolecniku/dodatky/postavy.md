@@ -44,6 +44,10 @@ Nevlastní sestra Lýdie a vlastní mladší sestra Alfréda Krajcarových
 
 Občan čtvrté kategorie, Hráč za **Krása-Styl**
 
+## Kubaljaková, Olga
+
+agentka-provokatérka, občanka druhé kategorie, sexy vamp 
+
 ## Kuběnová, Alexandra
 
 Občanka první kategorie
