@@ -268,6 +268,18 @@ Pak nezbývá než číst dál...
    sest_spolecniku/013-pavouci-a-masky/07.md
    sest_spolecniku/013-pavouci-a-masky/08.md
    sest_spolecniku/013-pavouci-a-masky/09.md
+   sest_spolecniku/mezihra.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 14: Nové hrozby
+   
+   sest_spolecniku/014-nove-hrozby/01.md
+   sest_spolecniku/014-nove-hrozby/02.md
+   sest_spolecniku/014-nove-hrozby/03.md
+   sest_spolecniku/014-nove-hrozby/04.md
+   sest_spolecniku/014-nove-hrozby/05.md
+   sest_spolecniku/014-nove-hrozby/06.md
 
 
 Další informace
