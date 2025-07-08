@@ -280,6 +280,11 @@ Pak nezbývá než číst dál...
    sest_spolecniku/014-nove-hrozby/04.md
    sest_spolecniku/014-nove-hrozby/05.md
    sest_spolecniku/014-nove-hrozby/06.md
+   sest_spolecniku/014-nove-hrozby/07.md
+   sest_spolecniku/014-nove-hrozby/08.md
+   sest_spolecniku/014-nove-hrozby/09.md
+   sest_spolecniku/014-nove-hrozby/10.md
+   sest_spolecniku/014-nove-hrozby/11.md
 
 
 Další informace
@@ -291,10 +296,6 @@ Další informace
    
    sest_spolecniku/pokracovani.md
    sest_spolecniku/dodatky/informace.md
-   .. sest_spolecniku/dodatky/postavy.md
-   .. sest_spolecniku/dodatky/organizace.md
-   .. sest_spolecniku/dodatky/mista.md
-   .. sest_spolecniku/dodatky/vysvetlivky.md
 
 
 Vyhledávání
