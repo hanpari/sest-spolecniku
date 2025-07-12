@@ -1,5 +1,16 @@
 # Bezejmenná sbírka poezie
 
+## Na úvod
+
+    Má sličná čtenářko,
+    můj mužný čtenáři,
+    nezdá se, že bychom 
+    padli si do oka.
+
+    Ta první nemá vkus,
+    ten druhý překáží,
+    oba dva na mne jen
+    kálí tu zvysoka.
 
 ## Ctižádost
 
