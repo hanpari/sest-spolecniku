@@ -39,6 +39,11 @@
     Z obrazů pusté čmouhy
     vykreslí trpká beznaděj.
 
+    Zbytečný hlupák naříká,  
+    kdysi muž, leč co zbylo z něj?
+    Stou křivdu mlčky polyká,
+    kde sny mu zhltla beznaděj. 
+
     Naříkám nad žitím,
     co plyne plytce.
     Ohavný Vesmíre,
