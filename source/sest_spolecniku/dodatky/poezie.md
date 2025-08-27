@@ -201,11 +201,27 @@
     Semenný
     váček plný jedu.
 
-    V zákulisí
+    Na jevišti
     na kamenném trůnu,
-    vsunutý
+    vklíněný
     je v panenském lůnu.
 
 
     Jednooký had!
     Jednooký had!
+
+    Vazalové
+    oči přímo k zemi.
+    V zákulisí
+    přízrak hnusné změny.
+    
+    V odpornosti
+    nad obětí skleslou,
+    vztyčilo se
+    ztopořené žezlo.
+
+    Jednooký had!
+    Jednooký had!
+    Vládne vám!
+    Jednooký had!
+    
