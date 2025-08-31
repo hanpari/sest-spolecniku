@@ -44,6 +44,11 @@
     Snad jsem hlupák, 
     ale naskrz poctivý.
 
+    Že jsem v právu, 
+    ať mi svět neupirá. 
+    Poctivost je, 
+    co mi z kapsy neubývá.
+
 ## Beznaděj
 
     Kde rozum s hlavou nesmějí,
@@ -185,9 +190,9 @@
     křičí: "To je děs a běs!"
 
     Soucit nečekejte,
-    hlavně ne od lidí,
+    už vůbec ne od lidí,
     jediné je trápí,
-    kdo ten svinčík uklidí.
+    kdo můj svinčík uklidí.
 
     Křivdil by jim každý
     kdo by je za rasy bral,
