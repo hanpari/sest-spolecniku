@@ -5,7 +5,7 @@
     Má svůdná slovíčka,
     samý žert, smysl a  vjem,
     vzbuzují v čtenáři
-    jen vlažný nezájem.
+    pravlažný nezájem.
 
     Má sličná čtenářko,
     můj mužný čtenáři,
