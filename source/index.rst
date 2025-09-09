@@ -30,6 +30,9 @@ Jak **Šest společníků** hodnotí čtenářky a čtenáři?
 
 ----
 
+`Stáhnout e-knihu pro pohodlnější čtení <data/sest-spolecniku-hanpari.epub>`_
+
+----
 
 Šest společníků a Srdce lesapána
 ================================
@@ -286,6 +289,14 @@ Pak nezbývá než číst dál...
    sest_spolecniku/014-nove-hrozby/10.md
    sest_spolecniku/014-nove-hrozby/11.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 15: Úklady a souboje
+   
+   sest_spolecniku/015-uklady-a-souboje/01.md
+   sest_spolecniku/015-uklady-a-souboje/02.md
+   sest_spolecniku/015-uklady-a-souboje/03.md
+   sest_spolecniku/015-uklady-a-souboje/04.md
 
 Další informace
 ===============
