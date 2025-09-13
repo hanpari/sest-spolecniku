@@ -1,5 +1,5 @@
-myst-parser~=1.0.0
-Sphinx~=6.1.3
-sphinx-book-theme~=1.0.1
-sphinx-sitemap~=2.6.0
+myst-parser
+Sphinx
+sphinx-book-theme
+sphinx-sitemap
 

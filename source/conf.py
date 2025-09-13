@@ -35,3 +35,32 @@ html_css_files = [
 
 
 html_title = "Šest společníků"
+
+# Epub
+
+# Název knihy
+epub_title = "Šest společníků"
+
+# Autor
+epub_author = "Hanpari"
+
+# Jazyk
+epub_language = "cs"
+
+# Vydavatel
+epub_publisher = "hanpari.cz"
+
+# ISBN (volitelné)
+# epub_identifier = 'urn:isbn:1234567890'
+
+# Logo (volitelné)
+# epub_cover = ("_static/cover.jpg", "image/jpeg")
+
+# Vyloučené soubory
+epub_exclude_files = [
+    "search.html",
+    "_static/js/script.js",
+]
+
+# Navigace
+epub_show_urls = "footnote"  # nebo 'inline', 'no'
