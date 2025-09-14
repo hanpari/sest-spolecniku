@@ -115,9 +115,15 @@ Herec, hvězda TV seriálu Kočky v růžích
 
 ## Trojáková, Médea
 
-## Velehradský, Záviš
+Matka Světlany a Juraje, divadelní herečka
+
+## Velehradský, Záviš "Šupák"
 
 ## Vránová, Eliška "Vrána"
+
+## Zlatoústý, Jan
+
+Bulvární novinář
 
 ## Svět
 
