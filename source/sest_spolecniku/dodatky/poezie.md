@@ -199,6 +199,34 @@
     zkrátka by ocenili,
     kdybych pošel o kus dál.
 
+## Námořník
+
+    Já, co napsal bezpočet
+    nezáživných próz,
+    chovám černé myšlenky,
+    černé jako noc.
+
+    Kde jiní touží vidět
+    teplý slunce svit,
+    marně přemítám, proč se
+    nejít utopit.
+
+    Je-li život jak svíce, 
+    foukám na svíci, 
+    jak moře v bouři vane
+    vichry topícím. 
+
+    Přežil jsem se, přežil, 
+    zatajím svůj dech, 
+    bych plul břichem vzhůru,
+    leklý na zádech.
+
+    A až zeptají se, proč
+    marnil jsem svůj čas,
+    já povím, že řídil
+    jsem se podle vás.
+
+
 ## Jednooký had
 
     Vychlazená
