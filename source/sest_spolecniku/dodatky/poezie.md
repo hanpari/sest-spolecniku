@@ -78,10 +78,15 @@
 
 ## Spiknutí
 
-    Chtějí mne na živu, aby mučili mne.
-    Bezduché stíny, přízraky cizí viny.
-    Všechno už vím, znám, jak za nos vodili mne. 
-    Nejsem ten, kým byl jsem, jsem muž zcela jiný.
+    Chtějí mne na živu, 
+    aby mučili mne.
+    Bezduché stíny, 
+    přízraky cizí viny.
+
+    Všechno už vím, znám, 
+    jak za nos vodili mne. 
+    Nejsem ten, kým byl jsem,
+    jsem muž zcela jiný.
 
 ## Vznešenost sama
 
