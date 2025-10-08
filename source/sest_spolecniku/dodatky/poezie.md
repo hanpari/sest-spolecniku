@@ -4,28 +4,28 @@
 
     Má svůdná slovíčka,
     samý žert, smysl a  vjem,
-    vzbuzují v čtenáři
-    pravlažný nezájem.
+    vzbuzují v čtenářích
+    urputný nezájem.
 
     Má sličná čtenářko,
     můj mužný čtenáři,
     nezdá se, že bychom 
     padli si do oka.
 
-    Ty první nemáš vkus,
-    druhý mi překáží,
+    Jednomu schází vkus,
+    druhá se nesnaží,
     oba dva na mne tu
     kálíte zvysoka.
 
     Až umřu spolehlivě
     a svět mne ocení,
-    pro mne i pro tebe 
+    pro mne i pro vás dva 
     se mnoho nezmění.
 
     Do polí, do lesů,
     má trpká píseň zní,
     kde lidem zpívám všem,
-    jak moc jsou zbyteční. 
+    jak moc jsme zbyteční. 
 
   
 
@@ -45,9 +45,9 @@
     ale naskrz poctivý.
 
     Že jsem v právu, 
-    ať mi svět neupirá. 
+    ať mi svět neupírá. 
     Poctivost je, 
-    co mi z kapsy neubývá.
+    co z kapsy neubývá.
 
 ## Beznaděj
 
@@ -85,7 +85,7 @@
 
     Všechno už vím, znám, 
     jak za nos vodili mne. 
-    Nejsem ten, kým byl jsem,
+    Nejsem tím, kým byl jsem,
     jsem muž zcela jiný.
 
 ## Vznešenost sama
@@ -105,8 +105,8 @@
     Pro druhé, míníte,
     rozum už nezůstal.
 
-    Se zvedlým obočím
-    ja váhám z povzdálí.
+    S užaslým obočím
+    ja váhám v povzdálí.
     Bůh ví, co tam jedli,
     když moudrost sežrali. 
 
@@ -236,12 +236,12 @@
 
     Vychlazená
     duše v kouscích ledu.
-    Semenný
+    Hle, semenný
     váček plný jedu.
 
     Na jevišti
     na kamenném trůnu,
-    vklíněný
+    vklíněný tvor
     je v panenském lůnu.
 
 
@@ -249,7 +249,7 @@
     Jednooký had!
 
     Vazalové
-    oči přímo k zemi.
+    oči dusí k zemi.
     V zákulisí
     přízrak hnusné změny.
     
