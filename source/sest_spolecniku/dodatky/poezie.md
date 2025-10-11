@@ -161,7 +161,7 @@
     Když kvítek
     bezcílně kvete,
     pobaví,
-    než svět ho smete.
+    pak svět ho smete.
 
     Finito,
     prásk, bum a padla.
