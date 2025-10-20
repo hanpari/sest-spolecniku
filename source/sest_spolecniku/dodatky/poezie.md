@@ -12,12 +12,12 @@
     nezdá se, že bychom 
     padli si do oka.
 
-    Jednomu schází vkus,
-    druhá se nesnaží,
+    Jedněm schází vkus,
+    druzí se nesnaží,
     oba dva na mne tu
     kálíte zvysoka.
 
-    Až umřu spolehlivě
+    Až umřu na tuty
     a svět mne ocení,
     pro mne i pro vás dva 
     se mnoho nezmění.
