@@ -297,6 +297,11 @@ Pak nezbývá než číst dál...
    sest_spolecniku/015-uklady-a-souboje/02.md
    sest_spolecniku/015-uklady-a-souboje/03.md
    sest_spolecniku/015-uklady-a-souboje/04.md
+   sest_spolecniku/015-uklady-a-souboje/05.md
+   sest_spolecniku/015-uklady-a-souboje/06.md
+   sest_spolecniku/015-uklady-a-souboje/07.md
+   sest_spolecniku/015-uklady-a-souboje/08.md
+   sest_spolecniku/015-uklady-a-souboje/09.md
 
 Další informace
 ===============
