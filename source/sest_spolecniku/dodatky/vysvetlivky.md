@@ -21,7 +21,7 @@ Někdy též známé jako *Příliš dobré, aby to byla pravda*. Populární se
 
 ### Nezletilý
 
-Do patnácti let věku. Očkování je povinné..
+Do patnácti let věku. Očkování je povinné.
 
 ### Nultá kategorie
 
@@ -34,15 +34,15 @@ Neformálně též *plastový* občan nebo *plasťák*. Po skončení školní d
 
 ### Třetí kategorie
 
-Neformálně též *bronzový* občan nebo *bronzák*. Po skončení školní docházky jakýkoliv občan, u kterého společenský systém zaznamená minimální měřitelný přínos. Má nárok na očkování. Má právo vlastnit majetek do dvou miliónů korun.
+Neformálně též *bronzový* občan nebo *bronzák*. Po skončení školní docházky jakýkoliv občan, u kterého společenský systém zaznamená minimální měřitelný přínos. Má nárok na očkování.
 
 ### Druhá kategorie
 
-Neformálně též *stříbrný* občan nebo *stříbronos*. Po skončení školní docházky jakýkoliv občan, u kterého společenský systém dlouhodobě přesahuje střední měřitelný přínos. Má nárok na nadstandardní služby poskytované společností. Má právo vlastnit soukromý majetek do deseti miliónů korun. Má povinnost platit paušální měsíční daň.
+Neformálně též *stříbrný* občan nebo *stříbronos*. Po skončení školní docházky jakýkoliv občan, u kterého společenský systém dlouhodobě přesahuje střední měřitelný přínos. Má nárok na nadstandardní služby poskytované společností.
 
 ### První kategorie
 
-Neformálně též *zlatý* občan nebo *zlatonos*. Po skončení školní docházky jakýkoliv občan, u kterého společenský systém dlouhodobě přesahuje vysoký měřitelný přínos. Má právo vlastnit soukromý majetek do dvě stě miliónů korun. Má právo na technologie prodlužující lidský život. Má povinnost platit paušální měsíční daň.
+Neformálně též *zlatý* občan nebo *zlatonos*. Po skončení školní docházky jakýkoliv občan, u kterého společenský systém dlouhodobě přesahuje vysoký měřitelný přínos. Má právo na technologie prodlužující lidský život. Má povinnost platit paušální měsíční daň.
 
 ## Očkování
 
