@@ -263,3 +263,17 @@
     Vládne vám!
     Jednooký had!
     
+## Nezvaný host
+
+Když dveře zabouchneš,
+skončila hra i klam!
+Na prahu postojím,
+vlámat se nehodlám.
+
+Když dveře zabouchneš,
+přes slzy nevidím,
+leč cestu novou si
+ve sněhu vyklidím.
+
+Zima je, mráz je tu,
+dědeček z pohádek,
