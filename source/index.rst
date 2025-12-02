@@ -135,30 +135,30 @@ Pak nezbývá než číst dál...
    :maxdepth: 2
    :caption: Kapitola 5: Schizofrenie
 
-   sest_spolecniku/005-schizofrenie/1.md
-   sest_spolecniku/005-schizofrenie/2.md
-   sest_spolecniku/005-schizofrenie/3.md
-   sest_spolecniku/005-schizofrenie/4.md
-   sest_spolecniku/005-schizofrenie/5.md
-   sest_spolecniku/005-schizofrenie/6.md
-   sest_spolecniku/005-schizofrenie/7.md
-   sest_spolecniku/005-schizofrenie/8.md
-   sest_spolecniku/005-schizofrenie/9.md
+   sest_spolecniku/005-schizofrenie/01.md
+   sest_spolecniku/005-schizofrenie/02.md
+   sest_spolecniku/005-schizofrenie/03.md
+   sest_spolecniku/005-schizofrenie/04.md
+   sest_spolecniku/005-schizofrenie/05.md
+   sest_spolecniku/005-schizofrenie/06.md
+   sest_spolecniku/005-schizofrenie/07.md
+   sest_spolecniku/005-schizofrenie/08.md
+   sest_spolecniku/005-schizofrenie/09.md
    sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
    :caption: Kapitola 6: Špatné zprávy
 
-   sest_spolecniku/006-spatne-zpravy/1.md
-   sest_spolecniku/006-spatne-zpravy/2.md
-   sest_spolecniku/006-spatne-zpravy/3.md
-   sest_spolecniku/006-spatne-zpravy/4.md
-   sest_spolecniku/006-spatne-zpravy/5.md
-   sest_spolecniku/006-spatne-zpravy/6.md
-   sest_spolecniku/006-spatne-zpravy/7.md
-   sest_spolecniku/006-spatne-zpravy/8.md
-   sest_spolecniku/006-spatne-zpravy/9.md
+   sest_spolecniku/006-spatne-zpravy/01.md
+   sest_spolecniku/006-spatne-zpravy/02.md
+   sest_spolecniku/006-spatne-zpravy/03.md
+   sest_spolecniku/006-spatne-zpravy/04.md
+   sest_spolecniku/006-spatne-zpravy/05.md
+   sest_spolecniku/006-spatne-zpravy/06.md
+   sest_spolecniku/006-spatne-zpravy/07.md
+   sest_spolecniku/006-spatne-zpravy/08.md
+   sest_spolecniku/006-spatne-zpravy/09.md
    sest_spolecniku/006-spatne-zpravy/10.md
    sest_spolecniku/mezihra.md
 
@@ -166,15 +166,15 @@ Pak nezbývá než číst dál...
    :maxdepth: 2
    :caption: Kapitola 7: Gubernátorka v bílém
 
-   sest_spolecniku/007-gubernatorka-v-bilem/1.md
-   sest_spolecniku/007-gubernatorka-v-bilem/2.md
-   sest_spolecniku/007-gubernatorka-v-bilem/3.md
-   sest_spolecniku/007-gubernatorka-v-bilem/4.md
-   sest_spolecniku/007-gubernatorka-v-bilem/5.md
-   sest_spolecniku/007-gubernatorka-v-bilem/6.md
-   sest_spolecniku/007-gubernatorka-v-bilem/7.md
-   sest_spolecniku/007-gubernatorka-v-bilem/8.md
-   sest_spolecniku/007-gubernatorka-v-bilem/9.md
+   sest_spolecniku/007-gubernatorka-v-bilem/01.md
+   sest_spolecniku/007-gubernatorka-v-bilem/02.md
+   sest_spolecniku/007-gubernatorka-v-bilem/03.md
+   sest_spolecniku/007-gubernatorka-v-bilem/04.md
+   sest_spolecniku/007-gubernatorka-v-bilem/05.md
+   sest_spolecniku/007-gubernatorka-v-bilem/06.md
+   sest_spolecniku/007-gubernatorka-v-bilem/07.md
+   sest_spolecniku/007-gubernatorka-v-bilem/08.md
+   sest_spolecniku/007-gubernatorka-v-bilem/09.md
    sest_spolecniku/007-gubernatorka-v-bilem/10.md
    sest_spolecniku/007-gubernatorka-v-bilem/11.md
    sest_spolecniku/mezihra.md
@@ -184,15 +184,15 @@ Pak nezbývá než číst dál...
    :maxdepth: 2
    :caption: Kapitola 8: Velmistr Devíti draků
 
-   sest_spolecniku/008-velmistr-deviti-draku/1.md
-   sest_spolecniku/008-velmistr-deviti-draku/2.md
-   sest_spolecniku/008-velmistr-deviti-draku/3.md
-   sest_spolecniku/008-velmistr-deviti-draku/4.md
-   sest_spolecniku/008-velmistr-deviti-draku/5.md
-   sest_spolecniku/008-velmistr-deviti-draku/6.md
-   sest_spolecniku/008-velmistr-deviti-draku/7.md
-   sest_spolecniku/008-velmistr-deviti-draku/8.md
-   sest_spolecniku/008-velmistr-deviti-draku/9.md
+   sest_spolecniku/008-velmistr-deviti-draku/01.md
+   sest_spolecniku/008-velmistr-deviti-draku/02.md
+   sest_spolecniku/008-velmistr-deviti-draku/03.md
+   sest_spolecniku/008-velmistr-deviti-draku/04.md
+   sest_spolecniku/008-velmistr-deviti-draku/05.md
+   sest_spolecniku/008-velmistr-deviti-draku/06.md
+   sest_spolecniku/008-velmistr-deviti-draku/07.md
+   sest_spolecniku/008-velmistr-deviti-draku/08.md
+   sest_spolecniku/008-velmistr-deviti-draku/09.md
    sest_spolecniku/008-velmistr-deviti-draku/10.md
    sest_spolecniku/008-velmistr-deviti-draku/11.md
    sest_spolecniku/mezihra.md
@@ -295,6 +295,7 @@ Pak nezbývá než číst dál...
    sest_spolecniku/014-nove-hrozby/09.md
    sest_spolecniku/014-nove-hrozby/10.md
    sest_spolecniku/014-nove-hrozby/11.md
+   sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
@@ -308,6 +309,7 @@ Pak nezbývá než číst dál...
    sest_spolecniku/015-uklady-a-souboje/06.md
    sest_spolecniku/015-uklady-a-souboje/07.md
    sest_spolecniku/015-uklady-a-souboje/08.md
+   sest_spolecniku/mezihra.md
 
 .. toctree::
    :maxdepth: 2
