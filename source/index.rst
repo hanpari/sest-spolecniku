@@ -34,6 +34,12 @@ Jak **Šest společníků** hodnotí čtenářky a čtenáři?
 
 ----
 
+.. contents::
+   :depth: 2
+   :local:
+
+----
+
 Šest společníků a Srdce lesapána
 ================================
 
@@ -191,6 +197,7 @@ Pak nezbývá než číst dál...
    sest_spolecniku/008-velmistr-deviti-draku/11.md
    sest_spolecniku/mezihra.md
 
+----
 
 Šest společníků a Červánkové Město
 ==================================
@@ -301,7 +308,15 @@ Pak nezbývá než číst dál...
    sest_spolecniku/015-uklady-a-souboje/06.md
    sest_spolecniku/015-uklady-a-souboje/07.md
    sest_spolecniku/015-uklady-a-souboje/08.md
-   sest_spolecniku/015-uklady-a-souboje/09.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Kapitola 16: Vyvrcholení a peripetie
+   
+   sest_spolecniku/016-vyvrcholeni-a-peripetie/01.md
+   sest_spolecniku/016-vyvrcholeni-a-peripetie/02.md
+   sest_spolecniku/016-vyvrcholeni-a-peripetie/03.md
+
 
 Další informace
 ===============
