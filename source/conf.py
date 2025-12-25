@@ -9,6 +9,7 @@
 project = "Šest společníků"
 copyright = "2023, hanpari"
 author = "hanpari"
+version = "251225"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
