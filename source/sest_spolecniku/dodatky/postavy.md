@@ -1,5 +1,7 @@
 # Seznam postav
+
 ## Podsvět
+
 ### Černodušný, Cyril
 
 Lékař **Herního Centra**
@@ -12,7 +14,6 @@ Finanční ředitel pobočky **Technika-Zahradní**
 
 Lidské zdroje **Technika-Zahradní**
 
-
 ## Fafílková, Helena
 
 Poradce **Herního Centra** se zaměřením na nezletilé
@@ -20,7 +21,6 @@ Poradce **Herního Centra** se zaměřením na nezletilé
 ## Hromadný, Josef
 
 Občan čtvrté kategorie, Hráč za **Krása-Styl**
-
 
 ## Koucký, Jeremiáš
 
@@ -46,7 +46,7 @@ Občan čtvrté kategorie, Hráč za **Krása-Styl**
 
 ## Kubaljaková, Olga
 
-agentka-provokatérka, občanka druhé kategorie, sexy vamp 
+agentka-provokatérka, občanka druhé kategorie, sexy vamp
 
 ## Kuběnová, Alexandra
 
@@ -96,7 +96,6 @@ Kurýr **Herního Centra**, *fluid*
 
 **JAK MODEL, TAK MODELKA**
 
-
 ## Tabarová, Amálie
 
 studentka ekonomie, členka *Elity* ve zkušebním období
@@ -127,6 +126,20 @@ Bulvární novinář
 
 ## Svět
 
+### Mechový kopec
+
+#### baron
+
+#### Gabriela, dcera Sylvie
+
+#### Kopretina, dcera Zvezdany
+
+#### Sylvie, druhá baronka
+
+#### Zvezdana, první baronka
+
+#### Žalud, syn Zvezdany
+
 ### Zálesáci
 
 #### Rudolf
@@ -147,19 +160,17 @@ zástupce cechmistra gildy **Ježků**
 
 #### Jolana
 
-léčitelka gildy **Ježků**, pozdější 
+léčitelka gildy **Ježků**, pozdější
 
 ### Raťafák
 
 nezávislý zálesák
-
 
 ## Chrám sladké paní Lady
 
 ### bratr Ambrož
 
 vysvěcený kněz, člen chrámové rady
-
 
 ### bratr Benedikt
 
