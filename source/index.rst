@@ -309,6 +309,9 @@ Pak nezbývá než číst dál...
    sest_spolecniku/015-uklady-a-souboje/06.md
    sest_spolecniku/015-uklady-a-souboje/07.md
    sest_spolecniku/015-uklady-a-souboje/08.md
+   sest_spolecniku/015-uklady-a-souboje/09.md
+   sest_spolecniku/015-uklady-a-souboje/10.md
+   sest_spolecniku/015-uklady-a-souboje/11.md
    sest_spolecniku/mezihra.md
 
 .. toctree::
@@ -320,7 +323,6 @@ Pak nezbývá než číst dál...
    sest_spolecniku/016-vyvrcholeni-a-peripetie/03.md
    sest_spolecniku/016-vyvrcholeni-a-peripetie/04.md
    sest_spolecniku/016-vyvrcholeni-a-peripetie/05.md
-   sest_spolecniku/016-vyvrcholeni-a-peripetie/06.md
 
 
 Další informace
