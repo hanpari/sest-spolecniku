@@ -326,6 +326,10 @@ Pak nezbývá než číst dál...
    sest_spolecniku/016-vyvrcholeni-a-peripetie/06.md
    sest_spolecniku/016-vyvrcholeni-a-peripetie/07.md
    sest_spolecniku/016-vyvrcholeni-a-peripetie/08.md
+   sest_spolecniku/016-vyvrcholeni-a-peripetie/09.md
+   sest_spolecniku/016-vyvrcholeni-a-peripetie/10.md
+   sest_spolecniku/016-vyvrcholeni-a-peripetie/11.md
+   sest_spolecniku/016-vyvrcholeni-a-peripetie/12.md
 
 
 Další informace
