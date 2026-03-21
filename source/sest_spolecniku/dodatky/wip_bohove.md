@@ -1,11 +1,11 @@
 # Bohové Světa
 
 1. Černohlav
-2. Hladolet 
+2. Hladolet
 3. Jarilo
 4. Krasopaní
-5. Lada
-6. Morana 
+5. Sladká paní Lada
+6. Noční paní Morana
 7. Nočena
 8. Ovseň
 9. Pohvizd
