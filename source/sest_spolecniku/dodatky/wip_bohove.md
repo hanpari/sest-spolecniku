@@ -5,7 +5,7 @@
 3. Jarilo
 4. Krasopaní
 5. Sladká paní Lada
-6. Noční paní Morana
+6. Trpká paní Morana
 7. Nočena
 8. Ovseň
 9. Pohvizd
