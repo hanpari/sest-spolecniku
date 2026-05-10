@@ -100,7 +100,7 @@ Kurýr **Herního Centra**, *fluid*
 
 studentka ekonomie, členka *Elity* ve zkušebním období
 
-## Ťavodová, Libuše
+## Ťavolová, Libuše
 
 členka týmu **První-Spořitelní** <> vikomtesa z *Údolí plchů*
 
