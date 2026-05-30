@@ -72,6 +72,10 @@ studentka ekonomie
 
 profesorka Akademie, vedoucí oddělení Rudá hvězda
 
+## Nosková, Karin aka Kudlanka
+
+nohsled Eleanor
+
 ## Nozár, Robert
 
 člen *Elity*
