@@ -1,201 +1,225 @@
-# Seznam postav
+# List of Characters
 
-## Podsvět
+## The Underworld
 
-### Černodušný, Cyril
+### Cyril Blackheart
 
-Lékař **Herního Centra**
+Physician at the **Game Centre**
 
-### Drbohlav, Alois
+### Alois Threadwell
 
-Finanční ředitel pobočky **Technika-Zahradní**
+Financial Director, **Tech‑Garden Branch**
 
-### Drbohlavová, Karolína
+### Caroline Threadwell
 
-Lidské zdroje **Technika-Zahradní**
+Human Resources, **Tech‑Garden**
 
-## Fafílková, Helena
+---
 
-Poradce **Herního Centra** se zaměřením na nezletilé
+## Helena Fairwill
 
-## Hromadný, Josef
+Youth Advisor, **Game Centre**
 
-Občan čtvrté kategorie, Hráč za **Krása-Styl**
+## Joseph Broadmass
 
-## Koucký, Jeremiáš
+Fourth‑class citizen, Player for **Beauty‑Style**
 
-Právník **Asfaltové-Cestovní**
+## Jeremiah Cooke
 
-## Krajcar, Alfréd (starší)
+Attorney, **Asphalt‑Travel**
 
-Zakladatel a hlavní podílník **Asfaltové-Cestovní**
+## Alfred Carver Sr
 
-## Krajcar, Alfréd (mladší)
+Founder and principal shareholder of **Asphalt‑Travel**
 
-Ředitel jedné z poboček **Asfaltové-Cestovní**
+## Alfred Carver Jr
 
-## Krajcarová, Darina
+Branch Director, **Asphalt‑Travel**
 
-Nevlastní sestra Lýdie a vlastní mladší sestra Alfréda Krajcarových
+## Darina Carver
 
-## Krajcarová, Lýdie
+Half‑sister of Lydia, younger sister of Alfred Carver Jr.
 
-## Krtinec, Josef
+## Lydia Carver
 
-Občan čtvrté kategorie, Hráč za **Krása-Styl**
+## Joseph Holloway
 
-## Kubaljaková, Olga
+Fourth‑class citizen, Player for **Beauty‑Style**
 
-agentka-provokatérka, občanka druhé kategorie, sexy vamp
+## Olga Kestrel
 
-## Kuběnová, Alexandra
+Agent‑provocateur, second‑class citizen, vamp
 
-Občanka první kategorie
+## Alexandra Keenwood
 
-## Lízal, Jakub
+First‑class citizen
 
-Místopředseda studentské rady
+## Jacob Lytton
 
-## Márová, Gabriela
+Vice‑Chair of the Student Council
 
-## Mechová, Laura
+## Gabrielle Marrow
 
-## Mechový, Lukáš
+## Laura Mosswell
 
-## Mechový, Medard
+## Lucas Mosswell
 
-## Mejdrová, Sabina
+## Medard Mosswell
 
-studentka ekonomie
+## Sabine Maydrew
 
-## Neškodná, Jezábel
+Economics student
 
-profesorka Akademie, vedoucí oddělení Rudá hvězda
+## Jezabel Harrowmere
 
-## Nosková, Karin aka Kudlanka
+Professor at the Academy, Head of the **Red Star Division**
 
-nohsled Eleanor
+## Karin Nettle “Mantis”
 
-## Nozár, Robert
+Underling of Eleanor
 
-člen *Elity*
+## Robert Nozar
 
-## Oplatka, Ctibor
+Member of the *Elite*
+
+## Cuthbert Oatley
 
 Bookmaker
 
-## Radorad, Alibaba "Snížek"
+## Alibaba “Snowdrop” Radorad
 
-Poradce **Herního Centra** se zaměřením na firemní zákazníky
+Corporate Client Advisor, **Game Centre**
 
-## Soušek, Martin
+## Martin Sallow
 
-Hráč
+Player
 
-## Štveráková, Leontýna
+## Leontine Swiftfoot
 
-Kurýr **Herního Centra**, *fluid*
+Courier, **Game Centre**, *fluid*
 
-## Šouravá, Věra
+## Vera Shourava
 
-**JAK MODEL, TAK MODELKA**
+**BOTH MODEL AND MANNEQUIN**
 
-## Tabarová, Amálie
+## Amelia Tabar
 
-studentka ekonomie, členka *Elity* ve zkušebním období
+Economics student, probationary member of the *Elite*
 
-## Ťavolová, Libuše
+## Lady Libuse of the Dormouse Vale
 
-členka týmu **První-Spořitelní** <> vikomtesa z *Údolí plchů*
+Member of **First‑Savings**, vicomtesse of *Dormouse Vale*
 
-## Troják, Evžen
+## Eugene Trowe
 
-Herec, hvězda TV seriálu Kočky v růžích
+Actor, star of the TV series *Cats in Roses*
 
-## Troják, Juraj
+## George Trowe
 
-## Trojáková, Světlana
+## Svetlana Trowe
 
-## Trojáková, Médea
+## Medea Trowe
 
-Matka Světlany a Juraje, divadelní herečka
+Mother of Svetlana and George, theatre actress
 
-## Velehradský, Záviš "Šupák"
+## Xavier Valehart “Scrap”
 
-## Vránová, Eliška "Vrána"
+## Elisha Crowe “Raven”
 
-## Zlatoústý, Jan
+## John Goldmouth
 
-Bulvární novinář
+Tabloid journalist
 
-## Svět
+---
 
-### Mechový kopec
+# The World
 
-#### baron
+## Moss Hill
 
-#### Gabriela, dcera Sylvie
+### the Baron
 
-#### Kopretina, dcera Zvezdany
+### Gabrielle Dawncrest
 
-#### Sylvie, druhá baronka
+Daughter of Sylvie
 
-#### Zvezdana, první baronka
+### Daisy Dawncrest
 
-#### Žalud, syn Zvezdany
+Daughter of Zvezdana
 
-### Zálesáci
+### Sylvie Mossbaron
 
-#### Rudolf
+Second Baroness
 
-zástupce cechmistra gildy **Bažantů**
+### Zvezdana Dawncrest
 
-#### Prudil
+First Baroness
 
-zástupce cechmistra gildy **Čtveráků**
+### Acorn Dawncrest
 
-#### Velitel
+Son of Zvezdana
 
-zástupce cechmistra gildy **Ježků**
+---
 
-#### Němý
+## The Woodfolk
 
-člen gildy **Ježků**
+### Rudolf Buckthorn
 
-#### Jolana
+Deputy Guildmaster of the **Pheasants**
 
-léčitelka gildy **Ježků**, pozdější
+### Prudy Sharpbranch
 
-### Raťafák
+Deputy Guildmaster of the **Rogues**
 
-nezávislý zálesák
+### Captain Hedgeback
 
-## Chrám sladké paní Lady
+Deputy Guildmaster of the **Hedgehogs**
 
-### bratr Ambrož
+### Silent Hedgeback
 
-vysvěcený kněz, člen chrámové rady
+Member of the **Hedgehogs**
 
-### bratr Benedikt
+### Jolana Hedgeleaf
 
-nevysvěcený novic
+Healer of the **Hedgehogs**
 
-### bratr Bohumil
+---
 
-velekněz, nejvyšší kněz chrámu v Červánkovém Městě
+## Ratfalk the Lone Ranger
 
-## Akademie vyšších věd
+Independent woodsman
 
-### Neškodná, Jezabel
+---
 
-### Truchlivá, Jelizaveta
+# Temple of the Sweet Lady
 
-## Gubernátorský úřad Červánkového Města
+### Brother Ambrose
 
-### gubernátorka
+Ordained priest, member of the temple council
 
-### revizorka
+### Brother Benedict
 
-### tajemník
+Unordained novice
 
-### vykonavatel
+### High Priest Goodwill
+
+Supreme priest of the temple in Dawnfall City
+
+---
+
+# Academy of Higher Arts
+
+### Jezabel Harrowmere
+
+### Elizabeth Truemourn
+
+---
+
+# Governor’s Office of Dawnfall City
+
+### the Governess
+
+### the Auditor
+
+### the Secretary
+
+### the Enforcer
