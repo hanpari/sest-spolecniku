@@ -194,8 +194,20 @@ velekněz, nejvyšší kněz chrámu v Červánkovém Městě
 
 ### gubernátorka
 
-### revizorka
+### Revizorka
 
-### tajemník
+### Tajemník
 
 ### vykonavatel
+
+### Anjelika, slečna z Lipové aleje
+
+bývalá snoubenka Azimíra
+
+### Azimír, první syn vévody z Praříče
+
+kadet
+
+### Božidar, druhý syn vévody z Praříče
+
+student Akademie
