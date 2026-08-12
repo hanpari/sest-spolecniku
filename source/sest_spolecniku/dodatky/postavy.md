@@ -110,15 +110,15 @@ Economics student, probationary member of the *Elite*
 
 Member of **First‑Savings**, vicomtesse of *Dormouse Vale*
 
-## Eugene Trowe
+## Eugene Troyak
 
 Actor, star of the TV series *Cats in Roses*
 
-## George Trowe
+## George Troyak
 
-## Svetlana Trowe
+## Svetlana Troyak
 
-## Medea Trowe
+## Medea Troyak
 
 Mother of Svetlana and George, theatre actress
 
