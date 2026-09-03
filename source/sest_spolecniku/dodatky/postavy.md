@@ -54,7 +54,7 @@ Agent‑provocateur, second‑class citizen, vamp
 
 First‑class citizen
 
-## Jacob Lytton
+## Jacob Lickboothe
 
 Vice‑Chair of the Student Council
 
