@@ -11,14 +11,12 @@
 | Jeremiáš Koucký | Jeremiah Hawthorne |
 | Míjena Adlofová | Mijena Adloff |
 | Jakub Lízal | Jacob Lickboothe |
-| Eliška Vránová | Elisa Crowe |
+| Eliška "Vrána" Vránová | Elisa "Crow" Crowe |
 | Medard | Medard |
 | Sylvie | Sylvia |
 | Raťafák | Honker |
 | Kočena | Catsheen |
 | Hrdlička | TurtleDove |
-| Revizorka | Inspector |
-| Ředitelka | Headmistress |
 
 ---
 
@@ -31,11 +29,13 @@
 | baron | Baron |
 | baronka | Baroness |
 | lesapán | Forest Lord |
-| strašlivý lesapán | Terrible Forest Lord |
+| strašlivý lesapán | Fearsome Forestmaster |
 | vznešený dům | Noble House |
 | zálesák | Ranger |
 | lokaj | Footman |
 | služebnictvo | Servants |
+| Revizorka | Inspector |
+| Ředitelka | Headmistress |
 
 ---
 
@@ -58,6 +58,7 @@
 | Korzáři | Corsairs |
 | Syndikát / mafie | Syndicate |
 | Hra | the Game |
+| Sirotčinec | Orphanage |
 
 ---
 
@@ -67,7 +68,7 @@
 | --------- | --------- |
 | psovec | Houndman |
 | medvědovec | Bearman |
-| varan | Monitor Lizard |
+| varan | Lizardman |
 | kulíšci | Owlkins |
 | hurisky | Huris |
 | monstrum | Monster |
@@ -79,7 +80,9 @@
 
 | Czech | English |
 | --------- | --------- |
-| U Čtyř cest | At the Four Roads |
+| lázně U Čtyř cest | The Baths of Four Roads |
+| Červánkové Město | Crimsonfall City |
+| Les roztomilých kulíšků | The Sweet Owlet Woods |
 
 ---
 
