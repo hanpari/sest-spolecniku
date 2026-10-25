@@ -8,10 +8,14 @@
 | Medard Mechový | Medard Mosswell |
 | Gabriela Márová | Gabrielle Marrow |
 | MuDr. Černodušný | Dr. Blackheart |
-| Lýdie Krejcarová | Lydia Carver |
+| Lýdie Krajcarová | Lydia Carver |
 | Jeremiáš Koucký | Jeremiah Hawthorne |
 | Míjena Adlofová | Mijena Adloff |
 | Jakub Lízal | Jacob Lickboothe |
+| Lukáš Mechový | Luke Mosswell |
+| Alfréd Krajcar | Alfred Carver |
+| Darina Krajcar | Darina Carver |
+| Matyáš Mechový | Mathew Mosswell |
 | Eliška "Vrána" Vránová | Elisa "Crow" Crowe |
 | Sylvie | Sylvia |
 | Raťafák | Honker |
@@ -67,6 +71,7 @@
 | Krása-Styl | Beauty-Style |
 | Zahrada-Technická | GardenTech |
 | Měsíční kameny | Moonstones |
+| Lauřiny květiny | Laura's Flowers and Giftware |
 
 ---
 
