@@ -4,19 +4,19 @@
 
 | Czech | English |
 | --------- | --------- |
-| Gabriela Márová | Gabrielle Marrow |
 | Záviš Velehradský | Xavier Valehart |
-| Černodušný | Blackheart |
-| Lýdie | Lydia |
+| Medard Mechový | Medard Mosswell |
+| Gabriela Márová | Gabrielle Marrow |
+| MuDr. Černodušný | Dr. Blackheart |
+| Lýdie Krejcarová | Lydia Carver |
 | Jeremiáš Koucký | Jeremiah Hawthorne |
 | Míjena Adlofová | Mijena Adloff |
 | Jakub Lízal | Jacob Lickboothe |
 | Eliška "Vrána" Vránová | Elisa "Crow" Crowe |
-| Medard | Medard |
 | Sylvie | Sylvia |
 | Raťafák | Honker |
 | Kočena | Catsheen |
-| Hrdlička | TurtleDove |
+| Hrdlička | Turtledove |
 
 ---
 
@@ -25,17 +25,18 @@
 | Czech | English |
 | --------- | --------- |
 | Velitel | Boss |
-| gubernátorka | Governess |
+| gubernátorka | Lady Governor |
 | baron | Baron |
 | baronka | Baroness |
-| lesapán | Forest Lord |
+| lesapán | Forestmaster |
 | strašlivý lesapán | Fearsome Forestmaster |
 | vznešený dům | Noble House |
 | zálesák | Ranger |
 | lokaj | Footman |
 | služebnictvo | Servants |
-| Revizorka | Inspector |
+| Revizorka | Overseer |
 | Ředitelka | Headmistress |
+| Tajemník | Secretary |
 
 ---
 
@@ -48,6 +49,7 @@
 | občané první kategorie | First-Caste Citizens |
 | občané druhé kategorie | Second-Caste Citizens |
 | nižší občanské kategorie | Lower Castes |
+| občan-kandidát | Citizen‑Candidate |
 
 ---
 
@@ -59,6 +61,12 @@
 | Syndikát / mafie | Syndicate |
 | Hra | the Game |
 | Sirotčinec | Orphanage |
+| Asfaltové-Cestovní | Asphalt-Travel |
+| První-Spořitelní | First-Savings |
+| Šik&Šik | Chic & Chic |
+| Krása-Styl | Beauty-Style |
+| Zahrada-Technická | GardenTech |
+| Měsíční kameny | Moonstones |
 
 ---
 
@@ -66,12 +74,12 @@
 
 | Czech | English |
 | --------- | --------- |
-| psovec | Houndman |
-| medvědovec | Bearman |
-| varan | Lizardman |
-| kulíšci | Owlkins |
-| hurisky | Huris |
-| monstrum | Monster |
+| psovec | Houndling |
+| medvědovec | Bearling |
+| varan | Drakeling |
+| kulíšek | Owlkin |
+| huriska | houri |
+| monstrum | monster |
 | arcidémon | Archdemon |
 
 ---
