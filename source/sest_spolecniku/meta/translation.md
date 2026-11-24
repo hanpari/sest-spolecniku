@@ -95,7 +95,7 @@
 | --------- | --------- |
 | lázně U Čtyř cest | The Baths of Four Roads |
 | Červánkové Město | Crimsonfall City |
-| Les roztomilých kulíšků | The Sweet Owlet Woods |
+| Les roztomilých kulíšků | The Adorable Owlet Woods |
 
 ---
 
